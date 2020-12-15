@@ -36,7 +36,7 @@ http://edge2-sl.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_T
 #EXTINF:-1, tvg-id="Canal 9 Noticias (Paraguay)" ,tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_paraguay-mediano.png",C9N
 http://edge6-hr.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4-audio_20000=144800-video=1972000.m3u8
  
-#EXTINF:-1, tvg-id="Canal RPC (Paraguay)", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_paraguay-mediano.png",Trece
+#EXTINF:-1, tvg-id="PY - RPC", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_paraguay-mediano.png",Trece
 http://174.138.118.252/live/trece.m3u8
  
 #EXTINF:-1, tvg-id="Canal Paraguay TV", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paraguay_tv-mediano.png",Paraguay TV
@@ -62,6 +62,10 @@ https://59ce1298bfb98.streamlock.net/vaudeville/vaudeville/playlist.m3u8
  
 #EXTINF:-1, tvg-id="PARTY TV" tvg-name="PARTY TV" tvg-logo="",PARTY TV
 https://59ce1298bfb98.streamlock.net/partyfm/partyfm/playlist.m3u8
+
+
+#EXTINF:-1, tvg-id="PY - HEi Network" tvg-logo="https://www.heimusica.com/wp-content/uploads/2017/04/Hei-04.png",HEi Network
+http://nextplayparaguay.info:25461/live/MYTVITAUGUA/QLcSmM3Cfs/967.m3u8
  
 #EXTINF:-1, tvg-id="MI TV OBLIGADO" tvg-name="MI TV OBLIGADO" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/mitv.png",MI TV OBLIGADO
 http://copaco.desdeparaguay.net:1935/mitv/mitv/playlist.m3u8
