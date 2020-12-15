@@ -9,10 +9,10 @@ http://45.77.154.172:8080/hls/show.m3u8
 #EXTINF:-1, tvg-id="MY TV ITAUGUA" tvg-logo="",MY TV ITAUGUA
 http://nextplayparaguay.live/hls/mitvitauguap.m3u8
  
-#EXTINF:-1 tvg-id="Canal Telefuturo" tvg-name="Canal Telefuturo" , tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo-mediano.png",Canal Telefuturo
+#EXTINF:-1 tvg-id="Canal Telefuturo" tvg-name="Canal Telefuturo" , tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo-mediano.png",Telefuturo
 http://edge8-ccast-hr.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8
  
-#EXTINF:-1, tvg-id="Canal Paravisión" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paravision-mediano.png",Canal Paravisión
+#EXTINF:-1, tvg-id="Canal Paravisión" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paravision-mediano.png",Paravisión
 http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8
  
 #EXTINF:-1,tvg-id="Canal Noticias PY (Paraguay)", tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/npy.png",Noticias PY
@@ -21,25 +21,25 @@ http://edge-live14-sl.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotatin
 #EXTINF:-1, tvg-id="FARRA PLAY" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/farra.png",FARRA PLAY
 http://159.203.148.226/live/farra.m3u8
  
-#EXTINF:-1, tvg-id="PY - Unicanal" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/unicanal.png",Unicanal
+#EXTINF:-1, tvg-id="Canal Unicanal" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/unicanal.png",Unicanal
 http://45.55.127.106/live/unicanal.m3u8
  
-#EXTINF:-1, tvg-id="SNT", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/snt_paraguay-mediano.png",SNT
+#EXTINF:-1, tvg-id="Canal SNT (Paraguay)", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/snt_paraguay-mediano.png",SNT
 http://nextplayparaguay.info:25461/live/MYTVITAUGUA/QLcSmM3Cfs/8.m3u8
  
-#EXTINF:-1, tvg-id="Sur TV", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sur_tv_itapua_paraguay-mediano.png",Sur TV
+#EXTINF:-1, tvg-id="Canal Sur TV Itapúa (Paraguay)", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sur_tv_itapua_paraguay-mediano.png",Sur TV
 http://edge1-ccast-sl.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4.m3u8
  
-#EXTINF:-1, tvg-id="latele", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_tele_paraguay-mediano.png",latele
+#EXTINF:-1, tvg-id="Canal La Tele (Paraguay)", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_tele_paraguay-mediano.png",latele
 http://edge2-sl.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_TELE_C4-audio_20000=144800-video=1532000.m3u8
  
-#EXTINF:-1, tvg-id="Canal 9 Noticias (Paraguay)" ,tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_paraguay-mediano.png",Canal 9 Noticias (Paraguay)
+#EXTINF:-1, tvg-id="Canal 9 Noticias (Paraguay)" ,tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_paraguay-mediano.png",C9N
 http://edge6-hr.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4-audio_20000=144800-video=1972000.m3u8
  
-#EXTINF:-1, tvg-id="PY - RPC", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_paraguay-mediano.png",Trece
+#EXTINF:-1, tvg-id="Canal RPC (Paraguay)", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_paraguay-mediano.png",Trece
 http://174.138.118.252/live/trece.m3u8
  
-#EXTINF:-1, tvg-id="PY - Paraguay TV", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paraguay_tv-mediano.png",PY - Paraguay TV
+#EXTINF:-1, tvg-id="Canal Paraguay TV", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paraguay_tv-mediano.png",Paraguay TV
 http://nextplayparaguay.info:25461/live/MYTVITAUGUA/QLcSmM3Cfs/2.m3u8
  
 #EXTINF:-1, tvg-id="PY - ABC TV" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/abc.png",ABC TV
