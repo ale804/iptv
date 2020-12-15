@@ -65,12 +65,12 @@ https://59ce1298bfb98.streamlock.net/partyfm/partyfm/playlist.m3u8
 
 
 #EXTINF:-1, tvg-id="PY - HEi Network" tvg-logo="https://www.heimusica.com/wp-content/uploads/2017/04/Hei-04.png",HEi Network
-http://nextplayparaguay.info:25461/live/MYTVITAUGUA/QLcSmM3Cfs/967.m3u8
+https://tigocloudgen.desdeparaguay.net/heitv/heitv_py_alta/chunklist_w1740486633.m3u8?k=6242a95278f87b31808b307f0a0a716f12becd6827a61835ff1b304c981f0427&exp=1608061174
  
 #EXTINF:-1, tvg-id="MI TV OBLIGADO" tvg-name="MI TV OBLIGADO" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/mitv.png",MI TV OBLIGADO
 http://copaco.desdeparaguay.net:1935/mitv/mitv/playlist.m3u8
  
-#EXTINF:-1, tvg-id="PY - TVS" tvg-name="TVS ENCARNACION" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/tvs.png",TVS ENCARNACION 
+#EXTINF:-1, tvg-id="PY - TVS" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/tvs.png",TVS
 http://201.217.3.212/tvs/tvs/playlist.m3u8
  
 #EXTINF:-1, tvg-id="PY - Tigo Sports" tvg-name="Tigo Sports" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/tigo.png",Tigo Sports
