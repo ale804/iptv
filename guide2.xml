@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="PY - ABC TV">
+    <display-name lang="es">ABC TV</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="PY - Tigo Sports">
+    <display-name lang="es">Tigo Sports</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="PY - RPC">
+    <display-name lang="es">Trece</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="PY - TVS ">
+    <display-name lang="es">TVS</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="PY - HEi Network">
+    <display-name lang="es">HEi Network</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+</tv>
