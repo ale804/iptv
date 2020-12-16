@@ -44,6 +44,9 @@ http://nextplayparaguay.info:25461/live/MYTVITAUGUA/QLcSmM3Cfs/2.m3u8
  
 #EXTINF:-1, tvg-id="PY - ABC TV" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/abc.png",ABC TV
 http://edge2-hr.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-audio_20000=144800-video=1480000.m3u8
+
+#EXTINF:-1, tvg-id="PY - Tigo Sports" tvg-name="GEN PY" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png?fit=1920%2C1080",GEN PY
+http://nextplayparaguay.info:25461/live/MYTVITAUGUA/QLcSmM3Cfs/684.m3u8
  
 #EXTINF:-1, tvg-id="UNIRADIO TV" tvg-logo="",UNIRADIO TV
 https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8
