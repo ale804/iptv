@@ -2,21 +2,21 @@
  
 #EXTINF:-1, tvg-id="LA INVASIVA TV", tvg-logo="",LA INVASIVA TV 
 http://lainvasivatv.ml:8080/live/stream.m3u8
- 
-#EXTINF:-1, tvg-id="KANADE TV"  tvg-logo="",KANADE TV
-http://45.77.154.172:8080/hls/show.m3u8
- 
-#EXTINF:-1, tvg-id="MY TV ITAUGUA" tvg-logo="",MY TV ITAUGUA
-http://nextplayparaguay.live/hls/mitvitauguap.m3u8
- 
-#EXTINF:-1 tvg-id="Canal Telefuturo" tvg-name="Canal Telefuturo" , tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo-mediano.png",Canal Telefuturo
+
+#EXTINF:-1,tvg-id="Canal Noticias PY (Paraguay)", tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/npy.png",Noticias PY
+http://edge-live14-sl.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-audio_20000=144800-video=2100000.m3u8
+
+#EXTINF:-1, tvg-id="GEN" tvg-name="GEN PY" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png?fit=1920%2C1080",GEN PY
+http://nextplayparaguay.info:25461/live/MYTVITAUGUA/QLcSmM3Cfs/684.m3u8
+
+#EXTINF:-1 tvg-id="Canal Telefuturo" tvg-name="Canal Telefuturo" , tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo-mediano.png",Telefuturo
 http://edge8-ccast-hr.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8
  
 #EXTINF:-1, tvg-id="Canal Paravisión" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paravision-mediano.png",Paravisión
 http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8
  
-#EXTINF:-1,tvg-id="Canal Noticias PY (Paraguay)", tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/npy.png",Noticias PY
-http://edge-live14-sl.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-audio_20000=144800-video=2100000.m3u8
+#EXTINF:-1, tvg-id="SUCESO TV" tvg-name="SUCESO TV" tvg-logo="",SUCESO TV
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
  
 #EXTINF:-1, tvg-id="FARRA PLAY" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/farra.png",FARRA PLAY
 http://159.203.148.226/live/farra.m3u8
@@ -45,35 +45,35 @@ http://nextplayparaguay.info:25461/live/MYTVITAUGUA/QLcSmM3Cfs/2.m3u8
 #EXTINF:-1, tvg-id="PY - ABC TV" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/abc.png",ABC TV
 http://edge2-hr.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-audio_20000=144800-video=1480000.m3u8
 
-#EXTINF:-1, tvg-id="PY - Tigo Sports" tvg-name="GEN PY" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png?fit=1920%2C1080",GEN PY
-http://nextplayparaguay.info:25461/live/MYTVITAUGUA/QLcSmM3Cfs/684.m3u8
- 
+#EXTINF:-1, tvg-id="PY - Tigo Sports" tvg-name="Tigo Sports" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/tigo.png",Tigo Sports
+http://nextplayparaguay.info:25461/live/MYTVITAUGUA/QLcSmM3Cfs/967.m3u8
+
+#EXTINF:-1, tvg-id="RCN PY" tvg-name="RCN PY" tvg-logo="",RCN PY
+https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="MI TV OBLIGADO" tvg-name="MI TV OBLIGADO" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/mitv.png",MI TV OBLIGADO
+http://copaco.desdeparaguay.net:1935/mitv/mitv/playlist.m3u8
+
 #EXTINF:-1, tvg-id="UNIRADIO TV" tvg-logo="",UNIRADIO TV
 https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8
  
 #EXTINF:-1, tvg-id="SOMOS DEL ESTE TV" tvg-name="SOMOS DEL ESTE TV" tvg-logo="",SOMOS DEL ESTE TV
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
- 
-#EXTINF:-1, tvg-id="SUCESO TV" tvg-name="SUCESO TV" tvg-logo="",SUCESO TV
-https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
- 
-#EXTINF:-1, tvg-id="RCN PY" tvg-name="RCN PY" tvg-logo="",RCN PY
-https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8
- 
+
+#EXTINF:-1, tvg-id="PY - TVS" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/tvs.png",TVS
+http://201.217.3.212/tvs/tvs/playlist.m3u8
+
+#EXTINF:-1, tvg-id="MY TV ITAUGUA" tvg-logo="",MY TV ITAUGUA
+http://nextplayparaguay.live/hls/mitvitauguap.m3u8
+
 #EXTINF:-1, tvg-id="VAUDEVILLE TV" tvg-name="VAUDEVILLE TV" tvg-logo="",VAUDEVILLE TV
 https://59ce1298bfb98.streamlock.net/vaudeville/vaudeville/playlist.m3u8
  
 #EXTINF:-1, tvg-id="PARTY TV" tvg-name="PARTY TV" tvg-logo="",PARTY TV
 https://59ce1298bfb98.streamlock.net/partyfm/partyfm/playlist.m3u8
 
+#EXTINF:-1, tvg-id="KANADE TV"  tvg-logo="",KANADE TV
+http://45.77.154.172:8080/hls/show.m3u8
+
 #EXTINF:-1, tvg-id="GEN TV" tvg-logo="https://i.imgur.com/bXmDJPZ.jpg",GEN TV
 http://video1.veemesoft.com.ar:1935/14030/14030/playlist.m3u8
- 
-#EXTINF:-1, tvg-id="MI TV OBLIGADO" tvg-name="MI TV OBLIGADO" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/mitv.png",MI TV OBLIGADO
-http://copaco.desdeparaguay.net:1935/mitv/mitv/playlist.m3u8
- 
-#EXTINF:-1, tvg-id="PY - TVS" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/tvs.png",TVS
-http://201.217.3.212/tvs/tvs/playlist.m3u8
- 
-#EXTINF:-1, tvg-id="PY - Tigo Sports" tvg-name="Tigo Sports" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/tigo.png",Tigo Sports
-http://nextplayparaguay.info:25461/live/MYTVITAUGUA/QLcSmM3Cfs/967.m3u8
