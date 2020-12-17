@@ -9,7 +9,7 @@ http://45.77.154.172:8080/hls/show.m3u8
 #EXTINF:-1, tvg-id="MY TV ITAUGUA" tvg-logo="",MY TV ITAUGUA
 http://nextplayparaguay.live/hls/mitvitauguap.m3u8
  
-#EXTINF:-1 tvg-id="Canal Telefuturo" tvg-name="Canal Telefuturo" , tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo-mediano.png",Telefuturo
+#EXTINF:-1 tvg-id="Canal Telefuturo" tvg-name="Canal Telefuturo" , tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo-mediano.png",Canal Telefuturo
 http://edge8-ccast-hr.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8
  
 #EXTINF:-1, tvg-id="Canal Paravisión" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paravision-mediano.png",Paravisión
