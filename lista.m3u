@@ -56,6 +56,9 @@ http://copaco.desdeparaguay.net:1935/mitv/mitv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="UNIRADIO TV" tvg-logo="",UNIRADIO TV
 https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="KOA TV" tvg-logo="https://www.koaradio.net/index_htm_files/26.jpg",KOA TV
+https://panel.dattalive.com/8028/8028/playlist.m3u8
  
 #EXTINF:-1, tvg-id="SOMOS DEL ESTE TV" tvg-name="SOMOS DEL ESTE TV" tvg-logo="",SOMOS DEL ESTE TV
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
