@@ -31,7 +31,7 @@ http://nextplayparaguay.info:25461/live/MYTVITAUGUA/QLcSmM3Cfs/8.m3u8
 http://edge1-ccast-sl.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4.m3u8
  
 #EXTINF:-1, tvg-id="Canal La Tele (Paraguay)", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_tele_paraguay-mediano.png",latele
-http://edge2-sl.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_TELE_C4-audio_20000=144800-video=1532000.m3u8
+http://edge6-hr.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_TELE_C4-audio_20000=144800-video=1532000.m3u8
  
 #EXTINF:-1, tvg-id="Canal 9 Noticias (Paraguay)" ,tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_paraguay-mediano.png",C9N
 http://edge6-hr.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4-audio_20000=144800-video=1972000.m3u8
