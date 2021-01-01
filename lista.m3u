@@ -1,6 +1,6 @@
 #EXTM3U
  
-#EXTINF:-1, tvg-id="LA INVASIVA TV", tvg-logo="https://imgur.com/gallery/ybdUlb8",LA INVASIVA TV 
+#EXTINF:-1, tvg-id="LA INVASIVA TV", tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/invasiva.png",LA INVASIVA TV 
 http://lainvasivatv.ml:8080/live/stream.m3u8
 
 #EXTINF:-1,tvg-id="Canal Noticias PY (Paraguay)", tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/npy.png",Noticias PY
@@ -81,6 +81,6 @@ http://155.138.216.118:8080/hls/show.m3u8
 #EXTINF:-1, tvg-id="GEN TV ARGENTINA" tvg-grouptitle="Internacionales"tvg-logo="https://i.imgur.com/bXmDJPZ.jpg",GEN TV
 http://video1.veemesoft.com.ar:1935/14030/14030/playlist.m3u8
 
-#EXTINF:-1, tvg-id="TELEMETRO" tvg-grouptitle="Internacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/1200px-Logo-telemetro.svg.png",TELEMETRO PA
+#EXTINF:-1, tvg-id="TELEMETRO" group-title="Internacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/1200px-Logo-telemetro.svg.png",TELEMETRO PA
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
 
