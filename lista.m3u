@@ -1,6 +1,6 @@
 #EXTM3U
  
-#EXTINF:-1, tvg-id="LA INVASIVA TV", tvg-logo="",LA INVASIVA TV 
+#EXTINF:-1, tvg-id="LA INVASIVA TV", tvg-logo="https://imgur.com/gallery/ybdUlb8",LA INVASIVA TV 
 http://lainvasivatv.ml:8080/live/stream.m3u8
 
 #EXTINF:-1,tvg-id="Canal Noticias PY (Paraguay)", tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/npy.png",Noticias PY
@@ -15,7 +15,7 @@ http://edge8-ccast-hr.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating
 #EXTINF:-1, tvg-id="Canal Paravisión" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paravision-mediano.png",Paravisión
 http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8
  
-#EXTINF:-1, tvg-id="SUCESO TV" tvg-name="SUCESO TV" tvg-logo="",SUCESO TV
+#EXTINF:-1, tvg-id="SUCESO TV" tvg-name="SUCESO TV" tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logonuevo-300x103.png",SUCESO TV
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
  
 #EXTINF:-1, tvg-id="FARRA PLAY" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/farra.png",FARRA PLAY
@@ -48,7 +48,7 @@ http://edge2-hr.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_T
 #EXTINF:-1, tvg-id="PY - Tigo Sports" tvg-name="Tigo Sports" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/tigo.png",Tigo Sports
 http://nextplayparaguay.info:25461/live/MYTVITAUGUA/QLcSmM3Cfs/967.m3u8
 
-#EXTINF:-1, tvg-id="RCN PY" tvg-name="RCN PY" tvg-logo="",RCN PY
+#EXTINF:-1, tvg-id="RCN PY" tvg-name="RCN PY" tvg-logo="https://www.rcn.com.py/wp-content/uploads/2020/08/logo@1.3.png",RCN PY
 https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="MI TV OBLIGADO" tvg-name="MI TV OBLIGADO" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/mitv.png",MI TV OBLIGADO
@@ -60,23 +60,27 @@ https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8
 #EXTINF:-1, tvg-id="KOA TV" tvg-logo="https://www.koaradio.net/index_htm_files/26.jpg",KOA TV
 https://panel.dattalive.com/8028/8028/playlist.m3u8
  
-#EXTINF:-1, tvg-id="SOMOS DEL ESTE TV" tvg-name="SOMOS DEL ESTE TV" tvg-logo="",SOMOS DEL ESTE TV
+#EXTINF:-1, tvg-id="SOMOS DEL ESTE TV" tvg-name="SOMOS DEL ESTE TV" tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png",SOMOS DEL ESTE TV
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 
 #EXTINF:-1, tvg-id="PY - TVS" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/tvs.png",TVS
 http://201.217.3.212/tvs/tvs/playlist.m3u8
 
-#EXTINF:-1, tvg-id="MY TV ITAUGUA" tvg-logo="",MY TV ITAUGUA
+#EXTINF:-1, tvg-id="MY TV ITAUGUA" tvg-logo="https://play-lh.googleusercontent.com/4zULwKyA7UQDz-ed5IPAWg417sULbgOi0XmwWOwe0UUthhFSNFm9cUvU2rXysWQ22Yk",MY TV ITAUGUA
 http://nextplayparaguay.live/hls/mitvitauguap.m3u8
 
-#EXTINF:-1, tvg-id="VAUDEVILLE TV" tvg-name="VAUDEVILLE TV" tvg-logo="",VAUDEVILLE TV
+#EXTINF:-1, tvg-id="VAUDEVILLE TV" tvg-name="VAUDEVILLE TV" tvg-logo="https://vaudevillepy.com/wp-content/uploads/2020/06/Logo_full-768x431.png",VAUDEVILLE TV
 https://59ce1298bfb98.streamlock.net/vaudeville/vaudeville/playlist.m3u8
  
-#EXTINF:-1, tvg-id="PARTY TV" tvg-name="PARTY TV" tvg-logo="",PARTY TV
+#EXTINF:-1, tvg-id="PARTY TV" tvg-name="PARTY TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyqNvSWmqhTqoOIq2Rm5D7NMKZ0AkKyCzyAA&usqp=CAU",PARTY TV
 https://59ce1298bfb98.streamlock.net/partyfm/partyfm/playlist.m3u8
 
-#EXTINF:-1, tvg-id="KANADE TV"  tvg-logo="",KANADE TV
-http://45.77.154.172:8080/hls/show.m3u8
+#EXTINF:-1, tvg-id="KANADE TV" tvg-grouptitle="Internacionales" tvg-logo="http://kanadetv.club/uploads/system_logo/logo.png",KANADE TV
+http://155.138.216.118:8080/hls/show.m3u8
 
-#EXTINF:-1, tvg-id="GEN TV" tvg-logo="https://i.imgur.com/bXmDJPZ.jpg",GEN TV
+#EXTINF:-1, tvg-id="GEN TV ARGENTINA" tvg-grouptitle="Internacionales"tvg-logo="https://i.imgur.com/bXmDJPZ.jpg",GEN TV
 http://video1.veemesoft.com.ar:1935/14030/14030/playlist.m3u8
+
+#EXTINF:-1, tvg-id="TELEMETRO" tvg-grouptitle="Internacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/1200px-Logo-telemetro.svg.png",TELEMETRO PA
+https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
+
