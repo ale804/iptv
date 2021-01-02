@@ -3,13 +3,13 @@
 #EXTINF:-1, tvg-id="LA INVASIVA TV", tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/invasiva.png",LA INVASIVA TV 
 https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpYFVjDKXlVumibhwHvCtyTDSsSxLu5OEt0hoLIauyFJi5T4ydzPTHfmAzlLuczLYZo5VdIuyEttkvXnsKVRogHDG80eHjUN4isC4ZNSGM4H6LolSKpzcvTYD-0sW9ZEUuCJ_sBlhUJ09irBpv8DNLPs55Jv07yTn_BBsxI3gXGxel_TX-fzzTCauXhSQadevzPh8SnHodxQkzXLlcWJrCiPSP4J_8JPH1R57LTNFcrsxhSYiSSMJNyhFpj3Iscx-V2A-ufuhPnML_c-4XKxhrCHp46uF-nhz6R2I7l7FZ1n_fMQyJXJ3wcJDoPmGYy3M04xi4pdnP5G3ejhTqOPek0FQkzOdOsTBneqQyLzUTJLMesUwmt9CeBzAHfic_6MyfGe9B8USAUj3Vz5PpZluSCNb0WGC3_ma0JJV_92ZgzvVRRziJJqRRHKhVuMQ9Rs_q7fV3vSvPs5LUI9huAwFV2TRMK-JqXpLPpMjaCesjy17PNhzGhcEaLzPfnXABMcKXDjctcF4NjTfsKOu_c1mVL5A8Eph-PNtwn6jjpodXN_-l9m-clNRrNbEEFaJQr7mnqWsqnwtdRUR1MBLcldU4N7IzyvLbqoVd7kMMUr03OEbuBFuJ4dk_eXIjfpPPYbmdiCMHP4pHSkDA2VnBjWkt00MVXriPkQrcFJsGpGPKsCqjuTZ6XHX3nL2iK09R-Udm1fpYPnm33HbOpyHPnqsUvusex4IBJrBUThNCj2xe90chX1GnolzTFoN7nkh3U4nBdQFO0XRI7Vd52fcFGMp3pg7CXEZKaYH9GxApcaQrO_46W6yCfCMYV91NfNKv8SZcLllaODylrEo9s6IYH_lQSr_ww7Hh6rajxtR1h3Nm1ww-34ZWN3m1wSEKxA4jExyw3N61-UvJlmaPIaDEB4-GOXGCOVh6B_3A.m3u8
 
-#EXTINF:-1,tvg-id="Canal Noticias PY (Paraguay)", tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/npy.png",Noticias PY
+#EXTINF:-1,tvg-id="Canal Noticias PY (Paraguay)", tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/npy.png",Canal Noticias PY (Paraguay)
 http://edge-live14-sl.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-audio_20000=144800-video=2100000.m3u8
 
 #EXTINF:-1, tvg-id="GEN" tvg-name="GEN PY" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png?fit=1920%2C1080",GEN PY
 http://nextplayparaguay.info:25461/live/MYTVITAUGUA/QLcSmM3Cfs/684.m3u8
 
-#EXTINF:-1 tvg-id="Canal Telefuturo" tvg-name="Canal Telefuturo" , tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo-mediano.png",Telefuturo
+#EXTINF:-1 tvg-id="Canal Telefuturo" tvg-name="Canal Telefuturo" , tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo-mediano.png",Canal Telefuturo
 http://edge8-ccast-hr.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8
  
 #EXTINF:-1, tvg-id="Canal Paravisión" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paravision-mediano.png",Paravisión
