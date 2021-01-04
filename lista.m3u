@@ -76,7 +76,7 @@ https://59ce1298bfb98.streamlock.net/vaudeville/vaudeville/playlist.m3u8
 https://59ce1298bfb98.streamlock.net/partyfm/partyfm/playlist.m3u8
 
 #EXTINF:-1, tvg-id="KANADE TV" tvg-grouptitle="Internacionales" tvg-logo="http://kanadetv.club/uploads/system_logo/logo.png",KANADE TV
-http://155.138.216.118:8080/hls/show.m3u8
+http://207.246.84.143:8080/hls/Kanade.m3u8
 
 #EXTINF:-1, tvg-id="GEN TV ARGENTINA" tvg-grouptitle="Internacionales"tvg-logo="https://i.imgur.com/bXmDJPZ.jpg",GEN TV
 http://video1.veemesoft.com.ar:1935/14030/14030/playlist.m3u8
