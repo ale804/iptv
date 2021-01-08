@@ -72,6 +72,15 @@ https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
 #EXTINF:-1, tvg-id="MY TV ITAUGUA" tvg-logo="https://play-lh.googleusercontent.com/4zULwKyA7UQDz-ed5IPAWg417sULbgOi0XmwWOwe0UUthhFSNFm9cUvU2rXysWQ22Yk",MY TV ITAUGUA
 http://nextplayparaguay.live/hls/mitvitauguap.m3u8
 
+#EXTINF:-1, tvg-id="Chore TV" tvg-logo="",Chore TV
+http://nextplayparaguay.live/hls/guajayvifm.m3u8
+
+#EXTINF:-1, tvg-id="Chore TV" tvg-logo="",Central TV PY
+http://nextplayparaguay.live/hls/centralparaguaytv.m3u8
+
+#EXTINF:-1, tvg-id="Chore TV" tvg-logo="",Integracion TV
+http://nextplayparaguay.live/hls/integraciontv.m3u8
+
 #EXTINF:-1, tvg-id="VAUDEVILLE TV" tvg-name="VAUDEVILLE TV" tvg-logo="https://vaudevillepy.com/wp-content/uploads/2020/06/Logo_full-768x431.png",VAUDEVILLE TV
 https://59ce1298bfb98.streamlock.net/vaudeville/vaudeville/playlist.m3u8
  
