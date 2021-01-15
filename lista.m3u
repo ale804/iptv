@@ -81,8 +81,8 @@ http://nextplayparaguay.live/hls/centralparaguaytv.m3u8
 #EXTINF:-1, tvg-id="Chore TV" tvg-logo="",Integracion TV
 http://nextplayparaguay.live/hls/integraciontv.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="",EduCanal PY
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1610523179/ei/y03-X6GIMKGU1sQPtOeGmA4/ip/181.120.32.36/id/96r8xwiFBoQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMjE6uow9etZatNm6hQvnWgkhISmZpSMeLPYTxXQewaMAiEAi_xZzdc4ZV38KpbxAVF6un5tb4bg6ZePtcDPVdySRjQ%3D/file/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="",Romántica TV
+http://nextplayparaguay.live/hls/romanticatv.m3u8
 
 #EXTINF:-1, tvg-id="VAUDEVILLE TV" tvg-name="VAUDEVILLE TV" tvg-logo="https://vaudevillepy.com/wp-content/uploads/2020/06/Logo_full-768x431.png",VAUDEVILLE TV
 https://59ce1298bfb98.streamlock.net/vaudeville/vaudeville/playlist.m3u8
