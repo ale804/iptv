@@ -87,8 +87,8 @@ http://nextplayparaguay.live/hls/romanticatv.m3u8
 #EXTINF:-1, tvg-id="VAUDEVILLE TV" tvg-name="VAUDEVILLE TV" tvg-logo="https://vaudevillepy.com/wp-content/uploads/2020/06/Logo_full-768x431.png",VAUDEVILLE TV
 https://59ce1298bfb98.streamlock.net/vaudeville/vaudeville/playlist.m3u8
  
-#EXTINF:-1, tvg-id="PARTY TV" tvg-name="PARTY TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyqNvSWmqhTqoOIq2Rm5D7NMKZ0AkKyCzyAA&usqp=CAU",PARTY TV
-https://59ce1298bfb98.streamlock.net/partyfm/partyfm/playlist.m3u8
+#EXTINF:-1, tvg-id="PARTY TV" tvg-name="MAS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyqNvSWmqhTqoOIq2Rm5D7NMKZ0AkKyCzyAA&usqp=CAU",MAS TV
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpgFOB7NooBF633AP5_lMlgcx-i82j0utfKyhKH_8jbuA4VjAG9Z5P34i5UD_JIK-E5hogtlHOg07Q_LEU9XhEooSSwTdXlCyyzu_x7WrH-k__Kg9UkxJ1StPqHaZ6UTOS8uEYWw6QE9WBZb1pXoV8Et_5itGcVggp5T6OhavicZ9mUyHRZRJCgoC1Dy0rCrO5NmDetuOsIKzTt16wEH_Z1Err57YCKReJP8yU5uogeCsyMNZFkmdkDcHzdB7soo9WCH9_n-jIA3hAjs3FR-mQrMdEI-6yrnljBRb_o6vd6wCYlSVjpoDPLCQLhzTkkmXEnlbxnoDRYB53xxrYnxjG_VF1lKXw6mA7jGwo_ykYk6S9swnfk1H02arXptYW-E3Eirt3eLL5PmZMqVbwJ3KOuQqIsZHyX8K8K314Mxk-hhoFHGUjUCXIINHA5Gts7zkFQwh_kkPh8LeTA--RhXzfZocrd4k7-A0ZIK3I0cSMhgsrRud7JnAhxnrQN39cToKvgSO0ByoDU7xFN6lnpho0KYGzgQjy-wc8PfjhbosLELv0ja_or6T3t8rwF5QNSUQh8uTmguDuEDETJCYuxIJGRD6sVlemNkmwfnzbppyBVSiIL5oggBg6_nqX6TchAMam0VwEfxWvo85MlPYTbeue_lK_j5Vk3ayOwHlQRlADV8b2UVwxDJg9xUPnLMnjqPRwkimJVFPhaM2YLzRv0oTOqeAZj98VGfRu5IYRC25xw3upD-LQSHYCjVc1bU6Guf9-RyCr5u-y2HTHZMmlw2XhjQEW1Lm8lEVTvLsrIo3z0KwN0tNtq6hghNDaBETASeoXfINCMF86BVsOf3Jw5UiRpDrCgvXQ3sD_KM5eYETcbdBxlypl6p5SXLzBIQIqYuPHVDkZ8exMDmHvd7pBoMicqhBcBLlpZFiKbV.m3u8
 
 #EXTINF:-1, tvg-id="KANADE TV" tvg-grouptitle="Internacionales" tvg-logo="http://kanadetv.club/uploads/system_logo/logo.png",KANADE TV
 http://207.246.84.143:8080/hls/Kanade.m3u8
