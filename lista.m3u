@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/ale804/guiaepg/main/guide.xml"
  
 #EXTINF:-1, tvg-id="Vint TV", tvg-logo="https://raw.githubusercontent.com/ale804/guiaepg/main/esfera-blanca_vint.png",Vint TV
-http://lainvasivatv.ml:8080/live/stream.m3u8
+http://181.121.50.205:8080/live/stream.m3u8
 
 #EXTINF:-1,tvg-id="Canal Noticias PY (Paraguay)", tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/npy.png",Canal Noticias PY (Paraguay)
 http://edge-live14-sl.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-audio_20000=144800-video=2100000.m3u8
