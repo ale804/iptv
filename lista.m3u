@@ -69,8 +69,8 @@ http://201.217.3.212/tvs/tvs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b8Vzvwq.png" group-title="", RCC
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
 
-#EXTINF:-1, tvg-id="MY TV ITAUGUA" tvg-logo="https://play-lh.googleusercontent.com/4zULwKyA7UQDz-ed5IPAWg417sULbgOi0XmwWOwe0UUthhFSNFm9cUvU2rXysWQ22Yk",MY TV ITAUGUA
-http://nextplayparaguay.live/hls/mitvitauguap.m3u8
+#EXTINF:-1, tvg-id="Cvchd" tvg-logo="",CVC HD 
+https://59ce1298bfb98.streamlock.net/fieratv/fieratv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Chore TV" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/choreTV.jpg?itok=yu-TyyFD",Chore TV
 http://nextplayparaguay.live/hls/guajayvifm.m3u8
