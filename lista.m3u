@@ -57,7 +57,7 @@ http://copaco.desdeparaguay.net:1935/mitv/mitv/playlist.m3u8
 #EXTINF:-1, tvg-id="UNIRADIO TV" tvg-logo="http://uniradiopy.com/gallery_gen/a0b94378c0f3d5f82cf4273bdcca0980_250x123.png",UNIRADIO TV
 https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="KOA TV" tvg-logo="https://www.koaradio.net/index_htm_files/26.jpg",KOA TV
+#EXTINF:-1, tvg-id="KOA TV" tvg-logo="https://pbs.twimg.com/profile_images/886371101856628736/hWuK0igF_400x400.jpg",KOA TV
 https://panel.dattalive.com/8028/8028/playlist.m3u8
  
 #EXTINF:-1, tvg-id="SOMOS DEL ESTE TV" tvg-name="SOMOS DEL ESTE TV" tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png",SOMOS DEL ESTE TV
@@ -75,13 +75,13 @@ https://59ce1298bfb98.streamlock.net/fieratv/fieratv/playlist.m3u8
 #EXTINF:-1, tvg-id="Chore TV" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/choreTV.jpg?itok=yu-TyyFD",Chore TV
 http://nextplayparaguay.live/hls/guajayvifm.m3u8
 
-#EXTINF:-1, tvg-id="Chore TV" tvg-logo="",Cablemas TV
+#EXTINF:-1, tvg-id="Chore TV" tvg-logo="https://scontent.fasu5-1.fna.fbcdn.net/v/t1.0-9/37038465_473329019798186_6150127859152191488_o.png?_nc_cat=102&ccb=2&_nc_sid=09cbfe&_nc_ohc=xb9VqtMXEjoAX_4ukvF&_nc_ht=scontent.fasu5-1.fna&oh=1db0ac7d7dcbde4d85b78a345c34bbc8&oe=603CBE5F",Cablemas TV
 https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Chore TV" tvg-logo="",Integracion TV
 http://nextplayparaguay.live/hls/integraciontv.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="",Romántica TV
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://scontent.fasu5-1.fna.fbcdn.net/v/t1.0-9/69929363_527638297779465_6197538246491111424_o.jpg?_nc_cat=102&ccb=2&_nc_sid=09cbfe&_nc_ohc=_-7dZaO8OK8AX-ig24C&_nc_ht=scontent.fasu5-1.fna&oh=20feecd2875b71f428ebea1a8de11991&oe=603C0C6B",La Romántica TV
 http://nextplayparaguay.live/hls/romanticatv.m3u8
 
 #EXTINF:-1, tvg-id="VAUDEVILLE TV" tvg-name="VAUDEVILLE TV" tvg-logo="http://www.organizacioncristal.com/gallery_gen/e15571e82f534c433a4e8be572cb2e8d_3000x752.png",Cristal TV
@@ -90,11 +90,21 @@ https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 #EXTINF:-1, tvg-id="MAS TV" tvg-name="MAS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyqNvSWmqhTqoOIq2Rm5D7NMKZ0AkKyCzyAA&usqp=CAU",MAS TV
 https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpgFOB7NooBF633AP5_lMlgcx-i82j0utfKyhKH_8jbuA4VjAG9Z5P34i5UD_JIK-E5hogtlHOg07Q_LEU9XhEooSSwTdXlCyyzu_x7WrH-k__Kg9UkxJ1StPqHaZ6UTOS8uEYWw6QE9WBZb1pXoV8Et_5itGcVggp5T6OhavicZ9mUyHRZRJCgoC1Dy0rCrO5NmDetuOsIKzTt16wEH_Z1Err57YCKReJP8yU5uogeCsyMNZFkmdkDcHzdB7soo9WCH9_n-jIA3hAjs3FR-mQrMdEI-6yrnljBRb_o6vd6wCYlSVjpoDPLCQLhzTkkmXEnlbxnoDRYB53xxrYnxjG_VF1lKXw6mA7jGwo_ykYk6S9swnfk1H02arXptYW-E3Eirt3eLL5PmZMqVbwJ3KOuQqIsZHyX8K8K314Mxk-hhoFHGUjUCXIINHA5Gts7zkFQwh_kkPh8LeTA--RhXzfZocrd4k7-A0ZIK3I0cSMhgsrRud7JnAhxnrQN39cToKvgSO0ByoDU7xFN6lnpho0KYGzgQjy-wc8PfjhbosLELv0ja_or6T3t8rwF5QNSUQh8uTmguDuEDETJCYuxIJGRD6sVlemNkmwfnzbppyBVSiIL5oggBg6_nqX6TchAMam0VwEfxWvo85MlPYTbeue_lK_j5Vk3ayOwHlQRlADV8b2UVwxDJg9xUPnLMnjqPRwkimJVFPhaM2YLzRv0oTOqeAZj98VGfRu5IYRC25xw3upD-LQSHYCjVc1bU6Guf9-RyCr5u-y2HTHZMmlw2XhjQEW1Lm8lEVTvLsrIo3z0KwN0tNtq6hghNDaBETASeoXfINCMF86BVsOf3Jw5UiRpDrCgvXQ3sD_KM5eYETcbdBxlypl6p5SXLzBIQIqYuPHVDkZ8exMDmHvd7pBoMicqhBcBLlpZFiKbV.m3u8
 
-#EXTINF:-1, tvg-id="KANADE TV" tvg-grouptitle="Internacionales" tvg-logo="http://kanadetv.club/uploads/system_logo/logo.png",KANADE TV
+#EXTINF:-1, tvg-id="KANADE TV" tvg-logo="http://kanadetv.club/uploads/system_logo/logo.png",KANADE TV
 http://207.246.84.143:8080/hls/Kanade.m3u8
 
-#EXTINF:-1, tvg-id="GEN TV ARGENTINA" tvg-grouptitle="Internacionales"tvg-logo="https://i.imgur.com/bXmDJPZ.jpg",GEN TV
+#EXTINF:-1, tvg-id="" tvg-logo="https://scontent.fasu5-1.fna.fbcdn.net/v/t1.0-9/143875415_2851392408482847_2009333838825310306_o.jpg?_nc_cat=105&ccb=2&_nc_sid=09cbfe&_nc_ohc=eK2Hp5mgQQYAX_xUdea&_nc_ht=scontent.fasu5-1.fna&oh=16f4b2a6a4eed38a18dfb16256668db0&oe=603F7048",BOOMERANG CN
+http://8.9.4.128:8080/hls/boomerangtv.m3u8
+
+#EXTINF:-1, tvg-id="GEN TV ARGENTINA" tvg-logo="https://i.imgur.com/bXmDJPZ.jpg",GEN TV
 https://videohd.live:19360/8010/8010.m3u8
 
-#EXTINF:-1, tvg-id="TELEMETRO" group-title="Internacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/1200px-Logo-telemetro.svg.png",TELEMETRO PA
+#EXTINF:-1, tvg-id="TELEMETRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/1200px-Logo-telemetro.svg.png",TELEMETRO PA
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
+
+#EXTINF:-1, tvg-id="REWIND CL" tvg-logo="https://www.rewindtv.cl/wp-content/uploads/2020/09/cropped-REWIND-TV-LOGO-NUEVO-5-1536x181.png",REWIND TV CL
+https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="POPULAR TV" tvg-logo="https://www.populartv.cl/wp-content/uploads/2020/02/Logo-en-PNG-con-tipografia-e1580674852256.png",LA POPULAR TV
+https://5d1ca66d2d698.streamlock.net:1936/8076/mp4:8076_720p/playlist.m3u8
+
