@@ -45,6 +45,9 @@ http://nextplayparaguay.info:25461/live/MYTVITAUGUA/QLcSmM3Cfs/2.m3u8
 #EXTINF:-1, tvg-id="PY - ABC TV" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/abc.png",ABC TV
 http://edge2-hr.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-audio_20000=144800-video=1480000.m3u8
 
+#EXTINF:-1, tvg-id="KOA TV" tvg-logo="https://lobotv.com.py/wp-content/uploads/2020/02/cropped-logo-e1582333804638.png",LOBO TV
+https://live-ak.vimeocdn.com/exp=1612407227~acl=%2F5c50e412-837d-43cd-b28d-5e4bdcc5fe40%2F%2A~hmac=2214eb797db3204ee62d0027ea235a876150a0dfd2417739329d76afceab9c25/5c50e412-837d-43cd-b28d-5e4bdcc5fe40/playlist.m3u8
+
 #EXTINF:-1, tvg-id="PY - Tigo Sports" tvg-name="Tigo Sports" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/tigo.png",Tigo Sports
 http://nextplayparaguay.info:25461/live/MYTVITAUGUA/QLcSmM3Cfs/967.m3u8
 
