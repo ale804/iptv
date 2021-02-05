@@ -7,7 +7,7 @@ http://181.121.50.205:8080/live/stream.m3u8
 http://edge-live14-sl.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-audio_20000=144800-video=2100000.m3u8
 
 #EXTINF:-1, tvg-id="GEN" tvg-name="GEN PY" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png?fit=1920%2C1080",GEN PY
-http://nextplayparaguay.info:25461/live/MYTVITAUGUA/QLcSmM3Cfs/684.m3u8
+http://daleplay.biz:8080/live/maite/maite/1062.m3u8
 
 #EXTINF:-1 tvg-id="Canal Telefuturo" tvg-name="Canal Telefuturo" , tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo-mediano.png",Canal Telefuturo
 http://edge8-ccast-hr.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8
