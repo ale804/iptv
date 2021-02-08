@@ -88,7 +88,7 @@ http://nextplayparaguay.live/hls/romanticatv.m3u8
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="AZX TV" tvg-logo="http://azxtv.com/animeloving.png",Azxtv
-http://azxtv.com/hls/stream.m3u8/5c50e412-837d-43cd-b28d-5e4bdcc5fe40/playlist.m3u8
+http://azxtv.com/hls/stream.m3u8
 
 #EXTINF:-1, tvg-id="KANADE TV" tvg-logo="http://kanadetv.club/uploads/system_logo/logo.png",KANADE TV
 http://207.246.84.143:8080/hls/Kanade.m3u8
