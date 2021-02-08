@@ -45,9 +45,6 @@ http://nextplayparaguay.info:25461/live/MYTVITAUGUA/QLcSmM3Cfs/2.m3u8
 #EXTINF:-1, tvg-id="PY - ABC TV" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/abc.png",ABC TV
 http://edge2-hr.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-audio_20000=144800-video=1480000.m3u8
 
-#EXTINF:-1, tvg-id="AZX TV" tvg-logo="https://lobotv.com.py/wp-content/uploads/2020/02/cropped-logo-e1582333804638.png",Azxtv
-http://azxtv.com/hls/stream.m3u8/5c50e412-837d-43cd-b28d-5e4bdcc5fe40/playlist.m3u8
-
 #EXTINF:-1, tvg-id="PY - Tigo Sports" tvg-name="Tigo Sports" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/tigo.png",Tigo Sports
 http://nextplayparaguay.info:25461/live/MYTVITAUGUA/QLcSmM3Cfs/967.m3u8
 
@@ -89,9 +86,10 @@ http://nextplayparaguay.live/hls/romanticatv.m3u8
 
 #EXTINF:-1, tvg-id="VAUDEVILLE TV" tvg-name="VAUDEVILLE TV" tvg-logo="http://www.organizacioncristal.com/gallery_gen/e15571e82f534c433a4e8be572cb2e8d_3000x752.png",Cristal TV
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
- 
-#EXTINF:-1, tvg-id="MAS TV" tvg-name="MAS TV" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2dd6d4a0-3479-4851-9bc7-c09e80ea2ba0-profile_image-70x70.png",MAS TV ENCARNACION
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpkFjCh54_KYlprohRdJGur9qVKtib5a81sxtGUZfKWmucJgxxHrAyay5SB0pwD-BR_cxueSr1VEewWS1EuWk70_WIJBLp68u48mhg4rVtN3hj21wuLvp2J8fMZToqFU16LXprfrqzYe4aFR86iR6LOfx7zUJ2wbDlzydrgLhma7t8JaswDh56ahTuAH31WZcGtUNgFebAc7Tv6UiJJH-BtX926IXXlKktBoXbnHCZK7rVHekDYTU7FmWX2kQGQaT--1i-fkk-1EAh2miQANk--SAZVFhVhgpbhWvvUVE3p-0jGSpPxzGB5vnMKO1agobA6Ew51K1qBORQVR6yKFLmCjWLd82nysmrnhDQViPZY9WIsaSzpKuPAo4WmtzR5r4C5EAew1XzPT6Budv-SjvmfiJVknJgLsyh7Pa8AucXddKyADz4vZIHUEa7SYW7Dkrw13vo1wTiy02uRu6uOSqoq3NilsYmjxwlAnr_Mc6V_uob9WSCTGB9F7y86jHStuMmQxQ-Z_2I8NGtqTW1B1h_NBDgGq8SRdZ6BrK_R58Qzfj1i02YNLSpk0FCcl4a2lBaB-3Td1jRyE457ws4vuik1jWCq2mhqCUUhbxyoMJfpEeGAb9VLkAE3Y03EkY-GgHszU_SMW1gpSa9w8-XtV8P0NfPb4FQEYdzzj3za0B0J2nDeQQtZed3mx49OF2FyG3Msl0vm_j6I48-b4lNJFaO6-wNfIwOKpTlBY9cBYCqr3MY5xEvHECG_3OKO7m-J40nVuhH0FFvkYXsWQezaesv39CzbXzp_qc-RJjCSZeFoO3qdHmR2d-__LJ24UxvzHFYXip9vD5kumyIcyiDobjpXCYTCzH3lkuFakVvl52p2ZBuA88GD8lHbRr9QSENzwHo7G_bw_RBEb27gFnLYaDNSUOGVxLqq3rjXiCw.m3u8
+
+#EXTINF:-1, tvg-id="AZX TV" tvg-logo="http://azxtv.com/animeloving.png",Azxtv
+http://azxtv.com/hls/stream.m3u8/5c50e412-837d-43cd-b28d-5e4bdcc5fe40/playlist.m3u8
+
 #EXTINF:-1, tvg-id="KANADE TV" tvg-logo="http://kanadetv.club/uploads/system_logo/logo.png",KANADE TV
 http://207.246.84.143:8080/hls/Kanade.m3u8
 
