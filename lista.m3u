@@ -45,6 +45,9 @@ http://nextplayparaguay.info:25461/live/MYTVITAUGUA/QLcSmM3Cfs/2.m3u8
 #EXTINF:-1, tvg-id="PY - ABC TV" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/abc.png",ABC TV
 http://edge2-hr.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-audio_20000=144800-video=1480000.m3u8
 
+#EXTINF:-1, tvg-id="" tvg-logo="https://903064.smushcdn.com/2161460/wp-content/uploads/2021/01/logo-2.png",Ñanduti TV
+https://cdn3.wowza.com/1/U0xCd1RZUGM5cDQ1/NkhSRzB6/hls/live/playlist.m3u8
+
 #EXTINF:-1, tvg-id="PY - Tigo Sports" tvg-name="Tigo Sports" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/tigo.png",Tigo Sports
 http://nextplayparaguay.info:25461/live/MYTVITAUGUA/QLcSmM3Cfs/967.m3u8
 
@@ -89,9 +92,6 @@ https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="KANADE TV" tvg-logo="http://kanadetv.club/uploads/system_logo/logo.png",KANADE TV
 http://207.246.84.143:8080/hls/Kanade.m3u8
-
-#EXTINF:-1, tvg-id="" tvg-logo="https://scontent.fasu5-1.fna.fbcdn.net/v/t1.0-9/143875415_2851392408482847_2009333838825310306_o.jpg?_nc_cat=105&ccb=2&_nc_sid=09cbfe&_nc_ohc=eK2Hp5mgQQYAX_xUdea&_nc_ht=scontent.fasu5-1.fna&oh=16f4b2a6a4eed38a18dfb16256668db0&oe=603F7048",BOOMERANG CN
-http://8.9.4.128:8080/hls/boomerangtv.m3u8
 
 #EXTINF:-1, tvg-id="AZX TV" tvg-logo="http://azxtv.com/animeloving.png",Anime Loving TV
 http://azxtv.com/hls/stream.m3u8
