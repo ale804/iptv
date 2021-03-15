@@ -57,6 +57,9 @@ https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8
 #EXTINF:-1, tvg-id="MI TV OBLIGADO" tvg-name="MI TV OBLIGADO" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/mitv.png",MI TV OBLIGADO
 http://copaco.desdeparaguay.net:1935/mitv/mitv/playlist.m3u8
 
+#EXTINF:-1, tvg-id="paranahd" tvg-logo="",Parana HD 
+https://59ce1298bfb98.streamlock.net/paranahd/paranahd/playlist.m3u8
+
 #EXTINF:-1, tvg-id="UNIRADIO TV" tvg-logo="http://uniradiopy.com/gallery_gen/a0b94378c0f3d5f82cf4273bdcca0980_250x123.png",UNIRADIO TV
 https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8
 
