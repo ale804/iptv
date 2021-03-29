@@ -115,6 +115,6 @@ https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 #EXTINF:-1, tvg-id="POPULAR TV" tvg-logo="https://www.populartv.cl/wp-content/uploads/2020/02/Logo-en-PNG-con-tipografia-e1580674852256.png",LA POPULAR TV
 https://5d1ca66d2d698.streamlock.net:1936/8076/mp4:8076_720p/playlist.m3u8
 
-#EXTINF:-1,La Invasiva
+#EXTINF:-1,tvg-logo="https://lainvasiva.com/wp-content/uploads/2021/03/invasiva.png"La Invasiva
 http://stream.zeno.fm/ym0qh6zmg1duv.aac
 https://lainvasiva.com/wp-content/uploads/2019/08/trending-stories-3-9-150x150.jpg
