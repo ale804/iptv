@@ -39,8 +39,8 @@ http://edge6-hr.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4-a
 #EXTINF:-1, tvg-id="PY - RPC", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_paraguay-mediano.png",Trece
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/RPC_C4/verimatrix_rotating_FTA/RPC_C4-video=3000000-audio_20000=144800.m3u8
  
-#EXTINF:-1, tvg-id="Canal Paraguay TV", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paraguay_tv-mediano.png",Paraguay TV
-http://nextplayparaguay.info:25461/live/MYTVITAUGUA/QLcSmM3Cfs/2.m3u8
+#EXTINF:-1, tvg-id="Mega TV", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paraguay_tv-mediano.png",Mega TV PY
+https://streannlive-lh.akamaihd.net/i/megatv_1@1010316/index_1_av-b.m3u8
  
 #EXTINF:-1, tvg-id="PY - ABC TV" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/abc.png",ABC TV
 http://edge2-hr.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-audio_20000=144800-video=1480000.m3u8
