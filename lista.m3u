@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/ale804/guiaepg/main/guide.xml"
  
-#EXTINF:-1, tvg-id="Vint TV", tvg-logo="",Mas TV
+#EXTINF:-1, tvg-id="Vint TV", tvg-logo="https://4.bp.blogspot.com/-RcjnhCTDkvw/WW1F4LswLRI/AAAAAAAABuE/mRPAlWoXf2Ih90AI8nYW1H2C8ZViTrZMwCK4BGAYYCw/s320/logo-mas-tv-encarnacion.png",Mas TV
 http://milyventas.com:80/venta/twich.php?channel=mastvonline&f=.m3u8
 
 #EXTINF:-1,tvg-id="Canal Noticias PY (Paraguay)", tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/npy.png",Canal Noticias PY (Paraguay)
