@@ -72,8 +72,8 @@ https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 #EXTINF:-1, tvg-id="TVS" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/tvs.png",TVS
 http://201.217.3.212/tvs/tvs/playlist.m3u8
 
-#EXTINF:-1, tvg-id="Vint TV", tvg-logo="",Mas TV
-http://milyventas.com:80/venta/twich.php?channel=mastvonline&f=.m3u8
+#EXTINF:-1, tvg-id="frutillar TV", tvg-logo="",Frutillar TV
+https://59ce1298bfb98.streamlock.net/frutillarfm/frutillarfm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b8Vzvwq.png" group-title="", RCC
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
