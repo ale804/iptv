@@ -102,9 +102,8 @@ https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
 #EXTINF:-1, tvg-id="AZX TV" tvg-logo="http://azxtv.com/animeloving.png",Anime Loving TV
 http://azxtv.com/hls/stream.m3u8
 
-#EXTINF:-1, tvg-id="Toonizaki" tvg-name="Toonizaki" tvg-logo="",Canal Toonizaki 
-https://live.admefy.com/live/default/calm_amaranth_ec6b4.m3u8
-
+#EXTINF:-1, tvg-id="Toonizaki" tvg-name="Toonizaki" tvg-logo="",Canal lim
+https://live.autistici.org/hls/lainvasiva_src.m3u8
 
 #EXTINF:-1, tvg-id="GEN TV ARGENTINA" tvg-logo="https://i.imgur.com/bXmDJPZ.jpg",GEN TV
 https://videohd.live:19360/8010/8010.m3u8
