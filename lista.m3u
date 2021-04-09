@@ -75,6 +75,11 @@ http://201.217.3.212/tvs/tvs/playlist.m3u8
 #EXTINF:-1, tvg-id="frutillar TV", tvg-logo="",Frutillar TV
 https://59ce1298bfb98.streamlock.net/frutillarfm/frutillarfm/playlist.m3u8
 
+
+#EXTINF:-1, tvg-id="dismar TV", tvg-logo="",Dismar Radio TV
+http://tigocloud.desdeparaguay.net:1935/dismartv/dismartv/chunklist_w1119407034.m3u8?k=853d9ac311b4c43c9205e7e6496ef32c43893c9525eb949fb92cd768a9d1d319&exp=1618001786
+Use Agente:stagefright/1.2 (Linux;Android 10)
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b8Vzvwq.png" group-title="", RCC
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
 
@@ -90,6 +95,7 @@ https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
 #EXTINF:-1, tvg-id="Chore TV" tvg-logo="",Integracion TV
 http://nextplayparaguay.live/hls/integraciontv.m3u8
 
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://scontent.fasu5-1.fna.fbcdn.net/v/t1.0-9/69929363_527638297779465_6197538246491111424_o.jpg?_nc_cat=102&ccb=2&_nc_sid=09cbfe&_nc_ohc=_-7dZaO8OK8AX-ig24C&_nc_ht=scontent.fasu5-1.fna&oh=20feecd2875b71f428ebea1a8de11991&oe=603C0C6B",Radio Aregua TV
 https://inliveserver.com:1936/11038/11038/playlist.m3u8
 
@@ -104,6 +110,7 @@ http://azxtv.com/hls/stream.m3u8
 
 #EXTINF:-1, tvg-id="Toonizaki" tvg-name="Toonizaki" tvg-logo="",Canal lim
 https://live.autistici.org/hls/lainvasiva_src.m3u8
+
 
 #EXTINF:-1, tvg-id="GEN TV ARGENTINA" tvg-logo="https://i.imgur.com/bXmDJPZ.jpg",GEN TV
 https://videohd.live:19360/8010/8010.m3u8
