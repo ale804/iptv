@@ -1,115 +1,108 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/ale804/guiaepg/main/guide.xml"
  
-#EXTINF:-1, tvg-id="Vint TV", tvg-logo="https://4.bp.blogspot.com/-RcjnhCTDkvw/WW1F4LswLRI/AAAAAAAABuE/mRPAlWoXf2Ih90AI8nYW1H2C8ZViTrZMwCK4BGAYYCw/s320/logo-mas-tv-encarnacion.png",Mas TV
+#EXTINF:-1, tvg-id="", tvg-logo="https://4.bp.blogspot.com/-RcjnhCTDkvw/WW1F4LswLRI/AAAAAAAABuE/mRPAlWoXf2Ih90AI8nYW1H2C8ZViTrZMwCK4BGAYYCw/s320/logo-mas-tv-encarnacion.png",group-title="NACIONALES",MAS TV ENCARNACION
 http://milyventas.com:80/venta/twich.php?channel=mastvonline&f=.m3u8
 
-#EXTINF:-1,tvg-id="Canal Noticias PY (Paraguay)", tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/npy.png",Canal Noticias PY (Paraguay)
+#EXTINF:-1,tvg-id="Canal Noticias PY (Paraguay)", tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/npy.png",group-title="NACIONALES",Canal Noticias PY (Paraguay)
 http://edge-live14-sl.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-audio_20000=144800-video=2100000.m3u8
 
-#EXTINF:-1, tvg-id="GEN" tvg-name="GEN PY" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png?fit=1920%2C1080",GEN PY
+#EXTINF:-1, tvg-id="GEN" tvg-name="GEN PY" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png?fit=1920%2C1080",group-title="NACIONALES",GEN PY
 http://daleplay.biz:8080/live/maite/maite/1062.m3u8
 
-#EXTINF:-1 tvg-id="Canal Telefuturo" tvg-name="Canal Telefuturo" , tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo-mediano.png",Canal Telefuturo
+#EXTINF:-1 tvg-id="Canal Telefuturo" tvg-name="Canal Telefuturo" , tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo-mediano.png",group-title="NACIONALES",Telefuturo
 http://edge8-ccast-hr.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8
  
-#EXTINF:-1, tvg-id="Canal Paravisión" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paravision-mediano.png",Paravisión
+#EXTINF:-1, tvg-id="Canal Paravisión" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paravision-mediano.png",group-title="NACIONALES",Paravisión
 http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8
  
-#EXTINF:-1, tvg-id="SUCESO TV" tvg-name="SUCESO TV" tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logonuevo-300x103.png",SUCESO TV
+#EXTINF:-1, tvg-id="SUCESO TV" tvg-name="SUCESO TV" tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logonuevo-300x103.png",group-title="NACIONALES",SUCESO TV
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
  
-#EXTINF:-1, tvg-id="FARRA PLAY" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/farra.png",FARRA PLAY
+#EXTINF:-1, tvg-id="FARRA PLAY" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/farra.png",group-title="NACIONALES",FARRA PLAY
 http://159.203.148.226/live/farra.m3u8
  
-#EXTINF:-1, tvg-id="Canal Unicanal" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/unicanal.png",Unicanal
+#EXTINF:-1, tvg-id="Canal Unicanal" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/unicanal.png",group-title="NACIONALES",Unicanal
 http://45.55.127.106/live/unicanal.m3u8
  
-#EXTINF:-1, tvg-id="Canal SNT (Paraguay)", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/snt_paraguay-mediano.png",SNT
+#EXTINF:-1, tvg-id="Canal SNT (Paraguay)", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/snt_paraguay-mediano.png",group-title="NACIONALES",SNT
 https://edge-live13-sl.cvattv.com.ar:443/live/c4eds/SNT_C4/SA_Live_dash_enc_2A/SNT_C4.mpd
  
-#EXTINF:-1, tvg-id="Canal Sur TV Itapúa (Paraguay)", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sur_tv_itapua_paraguay-mediano.png",Sur TV
+#EXTINF:-1, tvg-id="Canal Sur TV Itapúa (Paraguay)", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sur_tv_itapua_paraguay-mediano.png",group-title="NACIONALES",Sur TV
 http://edge1-ccast-sl.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4.m3u8
  
-#EXTINF:-1, tvg-id="Canal La Tele (Paraguay)", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_tele_paraguay-mediano.png",latele
+#EXTINF:-1, tvg-id="Canal La Tele (Paraguay)", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_tele_paraguay-mediano.png",group-title="NACIONALES",latele
 http://edge6-hr.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_TELE_C4-audio_20000=144800-video=1532000.m3u8
  
-#EXTINF:-1, tvg-id="Canal 9 Noticias (Paraguay)" ,tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_paraguay-mediano.png",C9N
+#EXTINF:-1, tvg-id="Canal 9 Noticias (Paraguay)" ,tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_paraguay-mediano.png",group-title="NACIONALES",C9N
 http://edge6-hr.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4-audio_20000=144800-video=1972000.m3u8
  
-#EXTINF:-1, tvg-id="PY - RPC", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_paraguay-mediano.png",Trece
+#EXTINF:-1, tvg-id="PY - RPC", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_paraguay-mediano.png",group-title="NACIONALES",Trece
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/RPC_C4/verimatrix_rotating_FTA/RPC_C4-video=3000000-audio_20000=144800.m3u8
- 
-#EXTINF:-1, tvg-id="Mega TV", tvg-logo="https://raw.githubusercontent.com/ale804/iptv/Canales/logomegapy..png",Mega TV PY
-https://streannlive-lh.akamaihd.net/i/megatv_1@1010316/index_1_av-b.m3u8?sd=10&dw=3600&set-segment-duration=smoothest&rebase=on&hdntl=exp=1617846633~acl=*~data=hdntl~hmac=325307803e97e8dc44b275700c58273aab676911c373881bff619a7d07dfd170
- 
-#EXTINF:-1, tvg-id="PY - ABC TV" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/abc.png",ABC TV
+
+#EXTINF:-1, tvg-id="PY - ABC TV" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/abc.png",group-title="NACIONALES",ABC TV
 http://edge2-hr.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-audio_20000=144800-video=1480000.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://903064.smushcdn.com/2161460/wp-content/uploads/2021/01/logo-2.png",hayes TV
 https://59ce1298bfb98.streamlock.net/tvhayes/tvhayes/chunklist_w1245300356.m3u8
 
-#EXTINF:-1, tvg-id="PY - Tigo Sports" tvg-name="Tigo Sports" tvg-logo="https://guillermoatencio.com.ar/wp-content/uploads/2020/11/LogoGuillePlateado.png",GuilleAtencio Live
+#EXTINF:-1, tvg-id="" tvg-name="Tigo Sports" tvg-logo="https://guillermoatencio.com.ar/wp-content/uploads/2020/11/LogoGuillePlateado.png",GuilleAtencio Live
 https://vdo2.streamgato.us:3174/live/guillermoatenciolive.m3u8
 
-#EXTINF:-1, tvg-id="RCN PY" tvg-name="RCN PY" tvg-logo="https://www.rcn.com.py/wp-content/uploads/2020/08/logo@1.3.png",RCN PY
+#EXTINF:-1, tvg-id="RCN PY" tvg-name="RCN PY" tvg-logo="https://www.rcn.com.py/wp-content/uploads/2020/08/logo@1.3.png",group-title="NACIONALES",RCN PY
 https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="MI TV OBLIGADO" tvg-name="MI TV OBLIGADO" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/mitv.png",MI TV OBLIGADO
+#EXTINF:-1, tvg-id="MI TV OBLIGADO" tvg-name="MI TV OBLIGADO" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/mitv.png",group-title="NACIONALES",MI TV OBLIGADO
 http://copaco.desdeparaguay.net:1935/mitv/mitv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="paranahd" tvg-logo="",Parana HD 
+#EXTINF:-1, tvg-id="paranahd" tvg-logo="",group-title="NACIONALES",Parana HD 
 https://59ce1298bfb98.streamlock.net/paranahd/paranahd/playlist.m3u8
 
-#EXTINF:-1, tvg-id="UNIRADIO TV" tvg-logo="http://uniradiopy.com/gallery_gen/a0b94378c0f3d5f82cf4273bdcca0980_250x123.png",UNIRADIO TV
+#EXTINF:-1, tvg-id="UNIRADIO TV" tvg-logo="http://uniradiopy.com/gallery_gen/a0b94378c0f3d5f82cf4273bdcca0980_250x123.png",group-title="NACIONALES",UNIRADIO TV
 https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="KOA TV" tvg-logo="https://pbs.twimg.com/profile_images/886371101856628736/hWuK0igF_400x400.jpg",KOA TV
+#EXTINF:-1, tvg-id="KOA TV" tvg-logo="https://pbs.twimg.com/profile_images/886371101856628736/hWuK0igF_400x400.jpg",group-title="NACIONALES",KOA TV
 https://panel.dattalive.com/8028/8028/playlist.m3u8
  
-#EXTINF:-1, tvg-id="SOMOS DEL ESTE TV" tvg-name="SOMOS DEL ESTE TV" tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png",SOMOS DEL ESTE TV
+#EXTINF:-1, tvg-id="SOMOS DEL ESTE TV" tvg-name="SOMOS DEL ESTE TV" tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png",group-title="NACIONALES",SOMOS DEL ESTE TV
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 
-#EXTINF:-1, tvg-id="TVS" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/tvs.png",TVS
+#EXTINF:-1, tvg-id="TVS" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/tvs.png",group-title="NACIONALES",TVS ENCARNACION
 http://201.217.3.212/tvs/tvs/playlist.m3u8
 
-#EXTINF:-1, tvg-id="frutillar TV", tvg-logo="",Frutillar TV
+#EXTINF:-1, tvg-id="frutillar TV", tvg-logo="",group-title="NACIONALES",Frutillar Radio TV
 https://59ce1298bfb98.streamlock.net/frutillarfm/frutillarfm/playlist.m3u8
 
 
-#EXTINF:-1, tvg-id="dismar TV", tvg-logo="",Dismar Radio TV
+#EXTINF:-1, tvg-id="dismar TV", tvg-logo="",group-title="NACIONALES",Dismar Radio TV
 http://tigocloud.desdeparaguay.net:1935/dismartv/dismartv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b8Vzvwq.png" group-title="", RCC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b8Vzvwq.png" group-title="",group-title="NACIONALES", RCC
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
 
-#EXTINF:-1, tvg-id="Cvchd" tvg-logo="",CVC HD 
+#EXTINF:-1, tvg-id="Cvchd" tvg-logo="",group-title="NACIONALES",CVC HD 
 https://59ce1298bfb98.streamlock.net/fieratv/fieratv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="Chore TV" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/choreTV.jpg?itok=yu-TyyFD",Chore TV
+#EXTINF:-1, tvg-id="Chore TV" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/choreTV.jpg?itok=yu-TyyFD",group-title="NACIONALES",Chore TV
 http://nextplayparaguay.live/hls/guajayvifm.m3u8
 
-#EXTINF:-1, tvg-id="Chore TV" tvg-logo="https://scontent.fasu5-1.fna.fbcdn.net/v/t1.0-9/37038465_473329019798186_6150127859152191488_o.png?_nc_cat=102&ccb=2&_nc_sid=09cbfe&_nc_ohc=xb9VqtMXEjoAX_4ukvF&_nc_ht=scontent.fasu5-1.fna&oh=1db0ac7d7dcbde4d85b78a345c34bbc8&oe=603CBE5F",Cablemas TV
+#EXTINF:-1, tvg-id="Chore TV" tvg-logo="https://scontent.fasu5-1.fna.fbcdn.net/v/t1.0-9/37038465_473329019798186_6150127859152191488_o.png?_nc_cat=102&ccb=2&_nc_sid=09cbfe&_nc_ohc=xb9VqtMXEjoAX_4ukvF&_nc_ht=scontent.fasu5-1.fna&oh=1db0ac7d7dcbde4d85b78a345c34bbc8&oe=603CBE5F",group-title="NACIONALES",Cablemas TV
 https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
 
-#EXTINF:-1, tvg-id="Chore TV" tvg-logo="",Integracion TV
+#EXTINF:-1, tvg-id="" tvg-logo="",Integracion TV
 http://nextplayparaguay.live/hls/integraciontv.m3u8
 
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://scontent.fasu5-1.fna.fbcdn.net/v/t1.0-9/69929363_527638297779465_6197538246491111424_o.jpg?_nc_cat=102&ccb=2&_nc_sid=09cbfe&_nc_ohc=_-7dZaO8OK8AX-ig24C&_nc_ht=scontent.fasu5-1.fna&oh=20feecd2875b71f428ebea1a8de11991&oe=603C0C6B",Radio Aregua TV
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="",group-title="NACIONALES",Aregua TV
 https://inliveserver.com:1936/11038/11038/playlist.m3u8
 
-#EXTINF:-1, tvg-id="VAUDEVILLE TV" tvg-name="VAUDEVILLE TV" tvg-logo="http://www.organizacioncristal.com/gallery_gen/e15571e82f534c433a4e8be572cb2e8d_3000x752.png",Cristal TV
+#EXTINF:-1, tvg-id="" tvg-name="VAUDEVILLE TV" tvg-logo="http://www.organizacioncristal.com/gallery_gen/e15571e82f534c433a4e8be572cb2e8d_3000x752.png",group-title="NACIONALES",Cristal TV
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="KANADE TV" tvg-logo="http://kanadetv.club/uploads/system_logo/logo.png",KANADE TV
+#EXTINF:-1, tvg-id="" tvg-logo="",group-title="NACIONALES",LIM TV
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
 
 #EXTINF:-1, tvg-id="AZX TV" tvg-logo="http://azxtv.com/animeloving.png",Anime Loving TV
 http://azxtv.com/hls/stream.m3u8
-
-#EXTINF:-1, tvg-id="Toonizaki" tvg-name="Toonizaki" tvg-logo="",Canal lim
-https://live.autistici.org/hls/lainvasiva_src.m3u8
-
 
 #EXTINF:-1, tvg-id="GEN TV ARGENTINA" tvg-logo="https://i.imgur.com/bXmDJPZ.jpg",GEN TV
 https://videohd.live:19360/8010/8010.m3u8
@@ -122,7 +115,3 @@ https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="POPULAR TV" tvg-logo="https://www.populartv.cl/wp-content/uploads/2020/02/Logo-en-PNG-con-tipografia-e1580674852256.png",LA POPULAR TV
 https://5d1ca66d2d698.streamlock.net:1936/8076/mp4:8076_720p/playlist.m3u8
-
-#EXTINF:-1,tvg-logo="https://lainvasiva.com/wp-content/uploads/2021/03/invasiva.png"La Invasiva
-http://stream.zeno.fm/ym0qh6zmg1duv.aac
-https://lainvasiva.com/wp-content/uploads/2019/08/trending-stories-3-9-150x150.jpg
