@@ -1,6 +1,6 @@
 #EXTM3U url-tvg=""
  
-#EXTINF:-1, tvg-id="", tvg-logo="https://4.bp.blogspot.com/-RcjnhCTDkvw/WW1F4LswLRI/AAAAAAAABuE/mRPAlWoXf2Ih90AI8nYW1H2C8ZViTrZMwCK4BGAYYCw/s320/logo-mas-tv-encarnacion.png",group-title="NACIONALES",MAS TV ENCARNACION
+#EXTINF:-1, tvg-id="" group-title="NACIONALES", tvg-logo="https://4.bp.blogspot.com/-RcjnhCTDkvw/WW1F4LswLRI/AAAAAAAABuE/mRPAlWoXf2Ih90AI8nYW1H2C8ZViTrZMwCK4BGAYYCw/s320/logo-mas-tv-encarnacion.png",MAS TV ENCARNACION
 http://milyventas.com:80/venta/twich.php?channel=mastvonline&f=.m3u8
 
 #EXTINF:-1,tvg-id="Canal Noticias PY (Paraguay)", tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/npy.png",group-title="NACIONALES",Canal Noticias PY (Paraguay)
@@ -30,7 +30,7 @@ https://edge-live13-sl.cvattv.com.ar:443/live/c4eds/SNT_C4/SA_Live_dash_enc_2A/S
 #EXTINF:-1, tvg-id="Canal Sur TV Itapúa (Paraguay)", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sur_tv_itapua_paraguay-mediano.png",group-title="NACIONALES",Sur TV
 http://edge1-ccast-sl.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4.m3u8
  
-#EXTINF:-1, tvg-id="Canal La Tele (Paraguay)", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_tele_paraguay-mediano.png",group-title="NACIONALES",latele
+#EXTINF:-1, tvg-id="Canal La Tele (Paraguay)", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_tele_paraguay-mediano.png" group-title="NACIONALES",latele
 http://edge6-hr.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_TELE_C4-audio_20000=144800-video=1532000.m3u8
  
 #EXTINF:-1, tvg-id="Canal 9 Noticias (Paraguay)" ,tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_paraguay-mediano.png",group-title="NACIONALES",C9N
