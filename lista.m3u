@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/ale804/guiaepg/main/guide.xml"
+#EXTM3U url-tvg=""
  
 #EXTINF:-1, tvg-id="", tvg-logo="https://4.bp.blogspot.com/-RcjnhCTDkvw/WW1F4LswLRI/AAAAAAAABuE/mRPAlWoXf2Ih90AI8nYW1H2C8ZViTrZMwCK4BGAYYCw/s320/logo-mas-tv-encarnacion.png",group-title="NACIONALES",MAS TV ENCARNACION
 http://milyventas.com:80/venta/twich.php?channel=mastvonline&f=.m3u8
@@ -69,7 +69,7 @@ https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 #EXTINF:-1, tvg-id="TVS" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/tvs.png",group-title="NACIONALES",TVS ENCARNACION
 http://201.217.3.212/tvs/tvs/playlist.m3u8
 
-#EXTINF:-1, tvg-id="frutillar TV", tvg-logo="",group-title="NACIONALES",Frutillar Radio TV
+#EXTINF:-1, tvg-id="frutillar TV" group-title="NACIONALES", tvg-logo="",Frutillar Radio TV
 https://59ce1298bfb98.streamlock.net/frutillarfm/frutillarfm/playlist.m3u8
 
 
