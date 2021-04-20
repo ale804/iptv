@@ -1,1 +1,89 @@
+#EXTINF:-1, tvg-id="" tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg",LIM TV
+https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
+
+#EXTINF:-1, tvg-id="" , tvg-logo="https://4.bp.blogspot.com/-RcjnhCTDkvw/WW1F4LswLRI/AAAAAAAABuE/mRPAlWoXf2Ih90AI8nYW1H2C8ZViTrZMwCK4BGAYYCw/s320/logo-mas-tv-encarnacion.png",MAS TV ENCARNACION
+http://milyventas.com:80/venta/twich.php?channel=mastvonline&f=.m3u8
+
+#EXTINF:-1,tvg-id="Canal Noticias PY (Paraguay)", tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/npy.png",Canal Noticias PY (Paraguay)
+http://edge-live14-sl.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-audio_20000=144800-video=2100000.m3u8
+
+#EXTINF:-1 tvg-id="Canal Telefuturo" tvg-name="Canal Telefuturo" , tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo-mediano.png",Telefuturo
+http://edge8-ccast-hr.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8
+
+#EXTINF:-1, tvg-id="Canal Paravisión" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paravision-mediano.png",Paravisión
+http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8
+
+#EXTINF:-1, tvg-id="SUCESO TV" tvg-name="SUCESO TV" tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logonuevo-300x103.png",SUCESO TV
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="FARRA PLAY" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/farra.png",FARRA PLAY
+http://159.203.148.226/live/farra.m3u8
+
+#EXTINF:-1, tvg-id="Canal Unicanal" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/unicanal.png",Unicanal
+http://45.55.127.106/live/unicanal.m3u8
+
+#EXTINF:-1, tvg-id="Canal Sur TV Itapúa (Paraguay)", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sur_tv_itapua_paraguay-mediano.png",Sur TV
+http://edge1-ccast-sl.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4.m3u8
+
+#EXTINF:-1, tvg-id="Canal La Tele (Paraguay)", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_tele_paraguay-mediano.png",latele
+http://edge6-hr.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_TELE_C4-audio_20000=144800-video=1532000.m3u8
+
+#EXTINF:-1, tvg-id="Canal 9 Noticias (Paraguay)" ,tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_paraguay-mediano.png",C9N
+http://edge6-hr.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4-audio_20000=144800-video=1972000.m3u8
+
+#EXTINF:-1, tvg-id="PY - RPC", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_paraguay-mediano.png",Trece
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/RPC_C4/verimatrix_rotating_FTA/RPC_C4-video=3000000-audio_20000=144800.m3u8
+
+#EXTINF:-1, tvg-id="PY - ABC TV" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/abc.png",ABC TV
+http://edge2-hr.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-audio_20000=144800-video=1480000.m3u8
+
+#EXTINF:-1, tvg-id="RCN PY" tvg-name="RCN PY" tvg-logo="https://www.rcn.com.py/wp-content/uploads/2020/08/logo@1.3.png",RCN PY
+https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="MI TV OBLIGADO" tvg-name="MI TV OBLIGADO" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/mitv.png",MI TV OBLIGADO
+http://copaco.desdeparaguay.net:1935/mitv/mitv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="paranahd" tvg-logo="",Parana HD 
+https://59ce1298bfb98.streamlock.net/paranahd/paranahd/playlist.m3u8
+
+#EXTINF:-1, tvg-id="UNIRADIO TV" tvg-logo="http://uniradiopy.com/gallery_gen/a0b94378c0f3d5f82cf4273bdcca0980_250x123.png",UNIRADIO TV
+https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="KOA TV" tvg-logo="https://pbs.twimg.com/profile_images/886371101856628736/hWuK0igF_400x400.jpg",KOA TV
+https://panel.dattalive.com/8028/8028/playlist.m3u8
+
+#EXTINF:-1, tvg-id="SOMOS DEL ESTE TV" tvg-name="SOMOS DEL ESTE TV" tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png",SOMOS DEL ESTE TV
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+
+#EXTINF:-1, tvg-id="TVS" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/tvs.png",TVS ENCARNACION
+http://201.217.3.212/tvs/tvs/playlist.m3u8
+
+#EXTINF:-1, tvg-id="frutillar TV", tvg-logo="",Frutillar TV
+https://59ce1298bfb98.streamlock.net/frutillarfm/frutillarfm/playlist.m3u8
+
+#EXTINF:-1, tvg-id="dismar TV", tvg-logo="",Dismar TV
+http://tigocloud.desdeparaguay.net:1935/dismartv/dismartv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b8Vzvwq.png" group-title="",RCC
+https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Cvchd" tvg-logo="",CVC HD 
+https://59ce1298bfb98.streamlock.net/fieratv/fieratv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Chore TV" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/choreTV.jpg?itok=yu-TyyFD",Chore TV
+http://nextplayparaguay.live/hls/guajayvifm.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://scontent.fasu5-1.fna.fbcdn.net/v/t1.0-9/37038465_473329019798186_6150127859152191488_o.png?_nc_cat=102&ccb=2&_nc_sid=09cbfe&_nc_ohc=xb9VqtMXEjoAX_4ukvF&_nc_ht=scontent.fasu5-1.fna&oh=1db0ac7d7dcbde4d85b78a345c34bbc8&oe=603CBE5F",Cablemas TV
+https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="",Integracion TV
+http://nextplayparaguay.live/hls/integraciontv.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo=""Aregua TV
+https://inliveserver.com:1936/11038/11038/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="http://www.organizacioncristal.com/gallery_gen/e15571e82f534c433a4e8be572cb2e8d_3000x752.png",Cristal TV
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
+
+
 
