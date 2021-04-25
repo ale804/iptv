@@ -107,8 +107,8 @@ http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1, tvg-id="GEN TV ARGENTINA" tvg-logo="https://i.imgur.com/bXmDJPZ.jpg",GEN TV
 https://videohd.live:19360/8010/8010.m3u8
 
-#EXTINF:-1, tvg-id="TELEMETRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/1200px-Logo-telemetro.svg.png",TELEMETRO PA
-https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
+#EXTINF:-1, tvg-id="Tigo sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/1200px-Logo-telemetro.svg.png",TIGO SPORTS PY
+http://23.227.145.10:128/budTV/3232/1888_.m3u8
 
 #EXTINF:-1, tvg-id="REWIND CL" tvg-logo="https://www.rewindtv.cl/wp-content/uploads/2020/09/cropped-REWIND-TV-LOGO-NUEVO-5-1536x181.png",REWIND TV CL
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
