@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/ale804/iptv/Canales/Limepg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/ale804/iptv/Canales/limepg.xml"
  
 #EXTINF:-1, tvg-id="" group-title="NACIONALES", tvg-logo="https://4.bp.blogspot.com/-RcjnhCTDkvw/WW1F4LswLRI/AAAAAAAABuE/mRPAlWoXf2Ih90AI8nYW1H2C8ZViTrZMwCK4BGAYYCw/s320/logo-mas-tv-encarnacion.png",MAS TV ENCARNACION
 http://milyventas.com:80/venta/twich.php?channel=mastvonline&f=.m3u8
@@ -101,7 +101,7 @@ https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 #EXTINF:-1, tvg-id="Lim TV" tvg-logo="",Lim TV
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
 
-#EXTINF:-1, tvg-id="AZX TV" tvg-logo="http://azxtv.com/animeloving.png",Anime Loving TV
+#EXTINF:-1, tvg-id="AZX TV" tvg-logo="http://azxtv.com/animeloving.png",Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
 
 #EXTINF:-1, tvg-id="GEN TV ARGENTINA" tvg-logo="https://i.imgur.com/bXmDJPZ.jpg",GEN TV
