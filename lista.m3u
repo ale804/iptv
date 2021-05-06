@@ -101,7 +101,7 @@ https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 #EXTINF:-1, tvg-id="Lim TV" tvg-logo="",Lim TV
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
 
-#EXTINF:-1, tvg-id="AZX TV" tvg-logo="http://azxtv.com/animeloving.png",Anime Zone TV
+#EXTINF:-1, tvg-id="AZX TV" tvg-logo="http://azxtv.com/aztv.png",Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
 
 #EXTINF:-1, tvg-id="GEN TV ARGENTINA" tvg-logo="https://i.imgur.com/bXmDJPZ.jpg",GEN TV
