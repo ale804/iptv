@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/ale804/iptv/Canales/Limepg.xml"
 
 #EXTINF:-1, tvg-id="Lim TV" tvg-logo="",LIM TV
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
