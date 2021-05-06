@@ -2339,19 +2339,19 @@
     <date>1995</date>
     <icon src="http://epg.locomotiontv.com/imgs/eva.png"/>
   </programme>
-  <programme start="20210506123000 -0400" stop="20210506130000 -0400" channel="Locomotion">
+  <programme start="20210506123000 -0400" stop="20210506130000 -0400" channel="LIM TV">
     <title lang="es">Cowboy Bebop</title>
     <desc lang="es">El esbelto y despreocupado Spike Spiegel se equilibra con su bullicioso y pragmático compañero Jet Black mientras la pareja se gana la vida persiguiendo recompensas y recogiendo recompensas.</desc>
     <date>1998</date>
     <icon src="http://epg.locomotiontv.com/imgs/bebop.jpg"/>
   </programme>
-  <programme start="20210506130000 -0400" stop="20210506133000 -0400" channel="Locomotion">
+  <programme start="20210506130000 -0400" stop="20210506133000 -0400" channel="LIM TV">
     <title lang="es">Soul Hunter</title>
     <desc lang="es">Hace miles de años, era una época de brujería y magia oscura. Una malvada hechicera ha hechizado al emperador de la poderosa dinastía y se ha convertido en un títere sin sentido. El país está en ruinas, y los espíritus malignos acechan en todas partes.</desc>
     <date>1999</date>
     <icon src="http://epg.locomotiontv.com/imgs/soul.jpg"/>
   </programme>
-  <programme start="20210506133000 -0400" stop="20210506140000 -0400" channel="Locomotion">
+  <programme start="20210506133000 -0400" stop="20210506140000 -0400" channel="LIM TV">
     <title lang="es">Blue Seed</title>
     <desc lang="es">Momiji es una niña promedio hasta el día en que descubre que es descendiente de la gran familia Kushinada. Solo ella, con su sangre Kushinada, puede detener a los Aragami, monstruos parecidos a plantas demoníacas que amenazan con destruir Japón.</desc>
     <date>1994</date>
