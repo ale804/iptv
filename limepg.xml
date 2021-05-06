@@ -1,9 +1,13 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
-<tv generator-info-name="XMLTV - JAG Ent!" generator-info-url="http://www.xmltv.org/"> 
-<channel id="Lim TV" array="true"> 
-<display-name lang="es">Lim TV</display-name> 
-<icon src="http://locomotiontv.com/locomotion/logo.png"/> 
-<url>http://lainvasiva.com/</url> </channel> 
-<programme start="20210426133000 -0400" stop="20210426140000 -0400" channel="Lim TV"<title lang="es">Las Guerreras Magicas</title> <desc lang="es">Cuando la princesa de una tierra gobernada por el poder de la voluntad, es secuestrada por un sacerdote traidor, ella convoca a tres jóvenes de Japón para cumplir potencialmente las leyendas de las Guerreras Mágicas. Varadas en el misterioso planeta Céfiro hasta que puedan rescatar a la princesa, el trío lucha por sobrevivir contra el asalto del sacerdote.</desc> <date>1994</date> <icon src="http://epg.locomotiontv.com/imgs/magic.jpg"/>
-</programme>
-</tv>
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="XMLTV - JAG Ent!" generator-info-url="http://www.xmltv.org/">
+  <channel id="Lim TV" array="true">
+    <display-name lang="es">Lim TV</display-name>
+    <icon src="http://locomotiontv.com/locomotion/logo.png"/>
+    <url>http://lainvasiva.com/</url>
+  </channel>
+  <programme start="20210506133000 -0400" stop="20210506140000 -0400" channel="Lim TV">
+    <title lang="es">Las Guerreras Magicas</title>
+    <desc lang="es">Cuando la princesa de una tierra gobernada por el poder de la voluntad, es secuestrada por un sacerdote traidor, ella convoca a tres jóvenes de Japón para cumplir potencialmente las leyendas de las Guerreras Mágicas. Varadas en el misterioso planeta Céfiro hasta que puedan rescatar a la princesa, el trío lucha por sobrevivir contra el asalto del sacerdote.</desc>
+    <date>1994</date>
+    <icon src="http://epg.locomotiontv.com/imgs/magic.jpg"/>
+  </programme>
