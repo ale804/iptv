@@ -98,7 +98,7 @@ https://inliveserver.com:1936/11038/11038/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="VAUDEVILLE TV" tvg-logo="http://www.organizacioncristal.com/gallery_gen/e15571e82f534c433a4e8be572cb2e8d_3000x752.png",group-title="NACIONALES",Cristal TV
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="Lim TV" tvg-logo="",group-title="NACIONALES",Lim TV
+#EXTINF:-1, tvg-id="Lim TV" tvg-logo="",Lim TV
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
 
 #EXTINF:-1, tvg-id="AZX TV" tvg-logo="http://azxtv.com/animeloving.png",Anime Loving TV
