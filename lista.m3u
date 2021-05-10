@@ -107,8 +107,8 @@ http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1, tvg-id="GEN TV ARGENTINA" tvg-logo="https://i.imgur.com/bXmDJPZ.jpg",GEN TV
 https://videohd.live:19360/8010/8010.m3u8
 
-#EXTINF:-1, tvg-id="Tigo sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/1200px-Logo-telemetro.svg.png",TIGO SPORTS PY
-http://23.227.145.10:128/budTV/3232/1888_.m3u8
+#EXTINF:-1, tvg-id="Aster" tvg-logo="http://canalaster.club/gallery_gen/1ce4ce4fcf816bd5b80808bc38e053e8_800x522.67533170864_0x152.5129982669_800x800.png",*Aster Channel
+http://96.30.193.226:81/hls/canalaster.m3u8
 
 #EXTINF:-1, tvg-id="REWIND CL" tvg-logo="https://www.rewindtv.cl/wp-content/uploads/2020/09/cropped-REWIND-TV-LOGO-NUEVO-5-1536x181.png",REWIND TV CL
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
