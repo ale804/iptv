@@ -25,7 +25,7 @@ http://159.203.148.226/live/farra.m3u8
 http://45.55.127.106/live/unicanal.m3u8
  
 #EXTINF:-1, tvg-id="Canal SNT (Paraguay)", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/snt_paraguay-mediano.png",SNT
-https://edge-live13-sl.cvattv.com.ar:443/live/c4eds/SNT_C4/SA_Live_dash_enc_2A/SNT_C4.mpd
+http://nextplaytv.online:25461/live/listadecanales/2020/8.m3u8
  
 #EXTINF:-1, tvg-id="Canal Sur TV Itapúa (Paraguay)", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sur_tv_itapua_paraguay-mediano.png",Sur TV
 http://edge1-ccast-sl.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4.m3u8
