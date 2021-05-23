@@ -5,38 +5,32 @@
     <icon src="http://locomotiontv.com/locomotion/logo.png"/>
     <url>http://lainvasiva.com/</url>
   </channel>
-  <programme start="20210506143000 -0400" stop="20210506150000 -0400" channel="Lim TV">
-    <title lang="es">Las Guerreras Magicas</title>
-    <desc lang="es">Cuando la princesa de una tierra gobernada por el poder de la voluntad, es secuestrada por un sacerdote traidor, ella convoca a tres jóvenes de Japón para cumplir potencialmente las leyendas de las Guerreras Mágicas. Varadas en el misterioso planeta Céfiro hasta que puedan rescatar a la princesa, el trío lucha por sobrevivir contra el asalto del sacerdote.</desc>
+  <programme start="20210523145000 -0400" stop="20210506161000 -0400" channel="Lim TV">
+    <title lang="es">Steven Universe: La Película</title>
+    <desc lang="es"></desc>
     <date>1994</date>
     <icon src="http://epg.locomotiontv.com/imgs/magic.jpg"/>
   </programme>
-  <programme start="20210506140000 -0400" stop="20210506143000 -0400" channel="Lim TV">
-    <title lang="es">Gantz</title>
-    <desc lang="es">Cuando la princesa de una tierra gobernada por el poder de la voluntad, es secuestrada por un sacerdote traidor, ella convoca a tres jóvenes de Japón para cumplir potencialmente las leyendas de las Guerreras Mágicas. Varadas en el misterioso planeta Céfiro hasta que puedan rescatar a la princesa, el trío lucha por sobrevivir contra el asalto del sacerdote.</desc>
+  <programme start="20210523161000 -0400" stop="20210523180000 -0400" channel="Lim TV">
+    <title lang="es">300</title>
+    <desc lang="es"></desc>
     <date>1994</date>
     <icon src="http://epg.locomotiontv.com/imgs/magic.jpg"/>
   </programme>
-  <programme start="20210506133000 -0400" stop="20210506140000 -0400" channel="Lim TV">
-    <title lang="es">Súper Campeones</title>
-    <desc lang="es">Cuando la princesa de una tierra gobernada por el poder de la voluntad, es secuestrada por un sacerdote traidor, ella convoca a tres jóvenes de Japón para cumplir potencialmente las leyendas de las Guerreras Mágicas. Varadas en el misterioso planeta Céfiro hasta que puedan rescatar a la princesa, el trío lucha por sobrevivir contra el asalto del sacerdote.</desc>
+<programme start="20210523180000 -0400" stop="20210506193000 -0400" channel="Lim TV">
+    <title lang="es">Apuesta Máxima</title>
+    <desc lang="es"></desc>
     <date>1994</date>
-    <icon src="http://epg.locomotiontv.com/imgs/magic.jpg"/>
+    <icon src=""/>
   </programme>
-<programme start="20210506180000 -0400" stop="20210506190000 -0400" channel="Lim TV">
-    <title lang="es">Smallville</title>
-    <desc lang="es">Cuando la princesa de una tierra gobernada por el poder de la voluntad, es secuestrada por un sacerdote traidor, ella convoca a tres jóvenes de Japón para cumplir potencialmente las leyendas de las Guerreras Mágicas. Varadas en el misterioso planeta Céfiro hasta que puedan rescatar a la princesa, el trío lucha por sobrevivir contra el asalto del sacerdote.</desc>
+  <programme start="20210523193000 -0400" stop="20210506213000 -0400" channel="Lim TV">
+    <title lang="es">Colateral</title>
+    <desc lang="es"></desc>
     <date>1994</date>
-    <icon src="http://epg.locomotiontv.com/imgs/magic.jpg"/>
+    <icon src=""/>
   </programme>
-<programme start="20210506190000 -0400" stop="20210506200000 -0400" channel="Lim TV">
-    <title lang="es">Los Magnificos</title>
-    <desc lang="es">Cuando la princesa de una tierra gobernada por el poder de la voluntad, es secuestrada por un sacerdote traidor, ella convoca a tres jóvenes de Japón para cumplir potencialmente las leyendas de las Guerreras Mágicas. Varadas en el misterioso planeta Céfiro hasta que puedan rescatar a la princesa, el trío lucha por sobrevivir contra el asalto del sacerdote.</desc>
-    <date>1994</date>
-    <icon src="http://epg.locomotiontv.com/imgs/magic.jpg"/>
-  </programme> 
-<programme start="20210506200000 -0400" stop="20210506220000 -0400" channel="Lim TV">
-    <title lang="es">Noche de Cine</title>
+<programme start="20210523213000 -0400" stop="20210523232000 -0400" channel="Lim TV">
+    <title lang="es">Wolf Creek 2</title>
     <desc lang="es">Cuando la princesa de una tierra gobernada por el poder de la voluntad, es secuestrada por un sacerdote traidor, ella convoca a tres jóvenes de Japón para cumplir potencialmente las leyendas de las Guerreras Mágicas. Varadas en el misterioso planeta Céfiro hasta que puedan rescatar a la princesa, el trío lucha por sobrevivir contra el asalto del sacerdote.</desc>
     <date>1994</date>
     <icon src="http://epg.locomotiontv.com/imgs/magic.jpg"/>
