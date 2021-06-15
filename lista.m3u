@@ -88,8 +88,8 @@ http://nextplayparaguay.live/hls/guajayvifm.m3u8
 #EXTINF:-1, tvg-id="Chore TV" tvg-logo="https://scontent.fasu5-1.fna.fbcdn.net/v/t1.0-9/37038465_473329019798186_6150127859152191488_o.png?_nc_cat=102&ccb=2&_nc_sid=09cbfe&_nc_ohc=xb9VqtMXEjoAX_4ukvF&_nc_ht=scontent.fasu5-1.fna&oh=1db0ac7d7dcbde4d85b78a345c34bbc8&oe=603CBE5F",Cablemas TV
 https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-logo="",Integracion TV
-http://nextplayparaguay.live/hls/integraciontv.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="",Teleanimacion
+https://live.admefy.com/live/240/socialist_azure_5d76a.m3u8
 
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="",Aregua TV
