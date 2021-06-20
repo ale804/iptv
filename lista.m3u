@@ -92,7 +92,7 @@ http://nextplayparaguay.live/hls/guajayvifm.m3u8
 https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-logo="",Copa America
-https://akamai2-br.cdn.booyah.live/hls/1000028/71562445.m3u8
+https://cdn.cvattv.com.ar/live/c3eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="",Aregua TV
 https://inliveserver.com:1936/11038/11038/playlist.m3u8
