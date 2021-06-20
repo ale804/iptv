@@ -92,7 +92,7 @@ http://nextplayparaguay.live/hls/guajayvifm.m3u8
 https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-logo="",Copa America
-https://livestreamapis.com/v3/accounts/23200525/events/9721208/videos/222540617.m3u8?token=67da717fbb35e7f432536ba5d0972dd4&clientId=18998&timestamp=1624222546908&signature=605c4756797d80000dfb2d167eacd10e9c944d13d2f5c56918e1d2f01cb4a178f3990f6d7cbce8cc2e32c8a3b62163ae
+https://directvsports-live.akamaized.net/hls/live/2026679/DTVSAR/master.m3u8?hdnts=exp%3D1624222765~acl%3D*~hmac%3D5bbdcd8e7dbeaecd65b191b41b7e4f2c932fab7cf367458b01cb2883930ecc54
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="",Aregua TV
 https://inliveserver.com:1936/11038/11038/playlist.m3u8
