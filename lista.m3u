@@ -45,8 +45,8 @@ http://edge2-hr.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_T
 #EXTINF:-1, tvg-id="" tvg-logo="https://903064.smushcdn.com/2161460/wp-content/uploads/2021/01/logo-2.png",Ñanduti TV
 https://tvdatta.com:3839/live/nandutitvlive.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://903064.smushcdn.com/2161460/wp-content/uploads/2021/01/logo-2.png",Paraguay TV
-https://live-ak.vimeocdn.com/exp=1623821534~acl=%2F887d6bd1-6840-43c5-8192-14ad1e878fe6%2F%2A~hmac=0ed291cf06ff4cf03cf2d5e8d5f25bc24b6f9d469881476ae712784808d51b90/887d6bd1-6840-43c5-8192-14ad1e878fe6/hls.m3u8?min_seconds=30
+#EXTINF:-1, tvg-id="" tvg-logo="https://scontent.fasu5-1.fna.fbcdn.net/v/t1.6435-9/fr/cp0/e15/q65/69997158_111368800246728_2266357828673339392_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=7aed08&_nc_ohc=GYe8eXww1LUAX9iRpcX&_nc_ht=scontent.fasu5-1.fna&tp=14&oh=f3c3b7df89831ed95492a0db40bc7ec4&oe=60D62EE6",Oviedo TV
+https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-name="Tigo Sports" tvg-logo="https://i.postimg.cc/Fsx70D6t/capiatatv.jpg",Capiata TV
 https://59ce1298bfb98.streamlock.net/capiatatv/capiatatv/chunklist_w34563078.m3u8
