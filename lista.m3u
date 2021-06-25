@@ -37,7 +37,7 @@ http://00322.xyz:8000/budalatino777/IBHxkUjGjH/131715
 http://edge6-hr.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4-audio_20000=144800-video=1972000.m3u8
  
 #EXTINF:-1, tvg-id="PY - RPC", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_paraguay-mediano.png",Trece
-http://edge02-fdo-py.cvattv.com.ar/live/c5eds/RPC_C4/verimatrix_rotating_FTA/RPC_C4-video=3000000-audio_20000=144800.m3u8
+https://stream.rpc.com.py/live/trece_src.m3u8
 
 #EXTINF:-1, tvg-id="PY - ABC TV" tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/abc.png",ABC TV
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
