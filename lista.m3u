@@ -4,16 +4,16 @@
 http://milyventas.com:80/venta/twich.php?channel=mastvonline&f=.m3u8
 
 #EXTINF:-1,tvg-id="Canal Noticias PY (Paraguay)", tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/npy.png",Noticias PY
-http://edge-live14-sl.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-audio_20000=144800-video=2100000.m3u8
+http://186.101.216.211:8000/play/a099
 
 #EXTINF:-1, tvg-id="tvmax" tvg-name="tvmax" tvg-logo="https://www.okparaguay.com/img/logo_canal/tvmax.png",TV MAX OVIEDO
 https://tvmaxsa.com.py:444/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Canal Telefuturo" tvg-name="Canal Telefuturo" , tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo-mediano.png",Telefuturo
-http://edge8-ccast-hr.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8
+http://186.101.216.211:8000/play/a06s
  
 #EXTINF:-1, tvg-id="Canal Paravisión" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paravision-mediano.png",Paravisión
-http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8
+http://186.101.216.211:8000/play/a03d
  
 #EXTINF:-1, tvg-id="SUCESO TV" tvg-name="SUCESO TV" tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logonuevo-300x103.png",SUCESO TV
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
@@ -28,13 +28,13 @@ http://45.55.127.106/live/unicanal.m3u8
 https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzOTAzNDU1LCJzZXNzaW9uIjoiMTgxLjEyMS4xMTcuMTU0Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjEuMTE3LjE1NCJdfSwic2lnbmF0dXJlIjoiYTJmM2IyMDliNzhjYjg1ZDM0ZjQxYjkzZGQ2NjQ2YmM5ODMwMTk1YiJ9
  
 #EXTINF:-1, tvg-id="Canal Sur TV Itapúa (Paraguay)", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sur_tv_itapua_paraguay-mediano.png",Sur TV
-http://edge1-ccast-sl.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4.m3u8
+http://186.101.216.211:8000/play/a03h
  
 #EXTINF:-1, tvg-id="Canal La Tele (Paraguay)", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_tele_paraguay-mediano.png",latele
-https://tigocloud.desdeparaguay.net/latele/latele_py_alta/chunklist_w1075603160.m3u8
+http://186.101.216.211:8000/play/a074
  
 #EXTINF:-1, tvg-id="Canal 9 Noticias (Paraguay)" ,tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_paraguay-mediano.png",C9N
-http://edge6-hr.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4-audio_20000=144800-video=1972000.m3u8
+http://186.101.216.211:8000/play/a097
  
 #EXTINF:-1, tvg-id="PY - RPC", tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_paraguay-mediano.png",Trece
 https://stream.rpc.com.py/live/trece_src.m3u8
