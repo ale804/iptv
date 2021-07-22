@@ -17,14 +17,14 @@
     <date>1994</date>
     <icon src=""/>
   </programme>
-  <programme start="20210721193500 -0400" stop="20210721211000 -0400" channel="Lim TV">
+  <programme start="20210721193500 -0400" stop="20210721205000 -0400" channel="Lim TV">
     <title lang="es">Shrek Para Siempre</title>
     <desc lang="es"></desc>
     <date>1994</date>
     <icon src=""/>
   </programme>
-<programme start="20210721211000 -0400" stop="20210721224000 -0400" channel="Lim TV">
-    <title lang="es">Liga de la justicia oscura: guerra Apokolips</title>
+<programme start="20210721205000 -0400" stop="20210721224000 -0400" channel="Lim TV">
+    <title lang="es">Dos Policías Rebeldes</title>
     <icon src=""/>
   </programme> 
 <programme start="20210721224000 -0400" stop="20210722100000 -0400" channel="Lim TV">
