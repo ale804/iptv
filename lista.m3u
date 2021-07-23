@@ -139,5 +139,5 @@ http://96.30.193.226:81/hls/kanade.m3u8
 #EXTINF:-1, tvg-id="REWIND CL" tvg-logo="https://www.rewindtv.cl/wp-content/uploads/2020/09/cropped-REWIND-TV-LOGO-NUEVO-5-1536x181.png",REWIND TV CL
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="POPULAR TV" tvg-logo="https://www.populartv.cl/wp-content/uploads/2020/02/Logo-en-PNG-con-tipografia-e1580674852256.png",LA POPULAR TV
-https://5d1ca66d2d698.streamlock.net:1936/8076/mp4:8076_720p/playlist.m3u8
+#EXTINF:-1, tvg-id="POPULAR TV" tvg-logo="",EVENTOS 1
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1627084422/ei/JgL7YOOaIM-U1sQPmJq02AY/ip/181.121.117.154/id/QlMUZM5sWkg.1~24053314/source/yt_live_broadcast/requiressl/yes/tx/24027399/txs/24027395%2C24027396%2C24027397%2C24027398%2C24027399%2C24027400/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/py/ss/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Css%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAI5a4lv_CZr6XH-1v-dBGVQpv7GVaqoGXkxWh3PnQDxkAiBYN3mQLv0_Slxvrs2jEMyH-FD2XjWghKG-lXoqrk6N1Q%3D%3D/file/index.m3u8
