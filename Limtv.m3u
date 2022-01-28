@@ -1,4 +1,4 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/ale804/iptv/Canales/limepg.xml"
 
-#EXTINF:-1, tvg-id="Lim TV" tvg-logo="",Lim TV
+#EXTINF:-1, tvg-id="Lim TV" tvg-logo="",LIM TV
 https://buddhist.tv:443/static/streaming-playlists/hls/a58a6aed-aa8c-4070-8127-6e2dd235779b/3.m3u8
