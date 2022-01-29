@@ -55,23 +55,23 @@
     <title lang="es">El Maestro Borracho</title>
     <icon src=""/>
   </programme>
-<programme start="20220129153000 -0300" stop="20220129170000 -0300" channel="Lim TV">
+<programme start="20220129153000 -0300" stop="20220129170500 -0300" channel="Lim TV">
     <title lang="es">El Transportador</title>
     <icon src=""/>
   </programme>
-<programme start="20220129173000 -0300" stop="20220129185500 -0300" channel="Lim TV">
+<programme start="20220129170500 -0300" stop="20220129183500 -0300" channel="Lim TV">
     <title lang="es">El Transportador 2</title>
     <icon src=""/>
   </programme>
-<programme start="20220129185500 -0300" stop="20220129205500 -0300" channel="Lim TV">
+<programme start="20220129183500 -0300" stop="20220129203500 -0300" channel="Lim TV">
     <title lang="es">Justicia Implacable</title>
     <icon src=""/>
   </programme>
-<programme start="20220129205500 -0300" stop="20220129223500 -0300" channel="Lim TV">
+<programme start="20220129203500 -0300" stop="20220129221500 -0300" channel="Lim TV">
     <title lang="es">La Redada</title>
     <icon src=""/>
   </programme>
-<programme start="20220129223500 -0300" stop="20220130010500 -0300" channel="Lim TV">
+<programme start="20220129221500 -0300" stop="20220130005000 -0300" channel="Lim TV">
     <title lang="es">La Redada 2</title>
     <icon src=""/>
   </programme>
