@@ -27,8 +27,53 @@
     <title lang="es">City Hunter</title>
     <icon src=""/>
   </programme> 
-<programme start="20220129012000 -0300" stop="20220129033300 -0300" channel="Lim TV">
+<programme start="20220129013000 -0300" stop="20220129034500 -0300" channel="Lim TV">
     <title lang="es">Duro de Matar</title>
     <icon src=""/>
   </programme>
+<programme start="20220129034500 -0300" stop="20220129060500 -0300" channel="Lim TV">
+    <title lang="es">Duro de Matar 2</title>
+    <icon src=""/>
+  </programme>
+<programme start="20220129060500 -0300" stop="20220129081500 -0300" channel="Lim TV">
+    <title lang="es">Duro de Matar 3: La Venganza</title>
+    <icon src=""/>
+  </programme>
+<programme start="20220129081500 -0300" stop="20220129102500 -0300" channel="Lim TV">
+    <title lang="es">Duro de Matar 4.0</title>
+    <icon src=""/>
+  </programme>
+<programme start="20220129102500 -0300" stop="20220129121000 -0300" channel="Lim TV">
+    <title lang="es">Duro de Matar 5</title>
+    <icon src=""/>
+  </programme>
+<programme start="20220129121000 -0300" stop="20220129140500 -0300" channel="Lim TV">
+    <title lang="es">El Implacable</title>
+    <icon src=""/>
+  </programme>
+<programme start="20220129140500 -0300" stop="20220129155500 -0300" channel="Lim TV">
+    <title lang="es">El Maestro Borracho</title>
+    <icon src=""/>
+  </programme>
+<programme start="20220129155500 -0300" stop="20220129173000 -0300" channel="Lim TV">
+    <title lang="es">El Transportador</title>
+    <icon src=""/>
+  </programme>
+<programme start="20220129173000 -0300" stop="20220129190000 -0300" channel="Lim TV">
+    <title lang="es">El Transportador 2</title>
+    <icon src=""/>
+  </programme>
+<programme start="20220129190000 -0300" stop="20220129210000 -0300" channel="Lim TV">
+    <title lang="es">Justicia Implacable</title>
+    <icon src=""/>
+  </programme>
+<programme start="20220129210000 -0300" stop="20220129224500 -0300" channel="Lim TV">
+    <title lang="es">La Redada</title>
+    <icon src=""/>
+  </programme>
+<programme start="20220129224500 -0300" stop="20220130011500 -0300" channel="Lim TV">
+    <title lang="es">La Redada 2</title>
+    <icon src=""/>
+  </programme>
+
 </tv>
