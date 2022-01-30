@@ -5,7 +5,7 @@
     <icon src=""/>
     <url>http://lainvasiva.com/</url>
   </channel>
-  <programme start="20220130005000 -0300" stop="20220130023000 -0300" channel="Lim TV">
+  <programme start="20220130004000 -0300" stop="20220130023000 -0300" channel="Lim TV">
     <title lang="es">La Tormenta Blanca</title>
     <icon src=""/>
   </programme>
@@ -69,7 +69,7 @@
     <title lang="es">Rápidos y Furiosos 9</title>
     <icon src=""/>
   </programme>
-<programme start="20220129221500 -0300" stop="20220130005000 -0300" channel="Lim TV">
+<programme start="20220129221500 -0300" stop="20220130004000 -0300" channel="Lim TV">
     <title lang="es">La Redada 2</title>
     <icon src=""/>
   </programme>
