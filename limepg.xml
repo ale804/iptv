@@ -15,13 +15,13 @@
     <date></date>
     <icon src=""/>
   </programme>
-  <programme start="20220131200000 -0300" stop="20220131214500 -0300" channel="Lim TV">
+  <programme start="20220131193000 -0300" stop="20220131211500 -0300" channel="Lim TV">
     <title lang="es">Terminator</title>
     <desc lang="es"></desc>
     <date>1994</date>
     <icon src=""/>
   </programme>
-<programme start="20220131214500 -0300" stop="20220201002000 -0300" channel="Lim TV">
+<programme start="20220131211500 -0300" stop="20220201235000 -0300" channel="Lim TV">
     <title lang="es">Terminator 2</title>
     <icon src=""/>
   </programme> 
