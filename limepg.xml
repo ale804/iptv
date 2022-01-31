@@ -5,27 +5,27 @@
     <icon src=""/>
     <url>http://lainvasiva.com/</url>
   </channel>
-  <programme start="20220130004000 -0300" stop="20220130023000 -0300" channel="Lim TV">
-    <title lang="es">La Tormenta Blanca</title>
+  <programme start="20220131163000 -0300" stop="20220131181000 -0300" channel="Lim TV">
+    <title lang="es">Shangai Kid</title>
     <icon src=""/>
   </programme>
-  <programme start="20220130023000 -0300" stop="20220130041000 -0300" channel="Lim TV">
-    <title lang="es">Angeles de Charlie</title>
+  <programme start="20220131181000 -0300" stop="20220131200000 -0300" channel="Lim TV">
+    <title lang="es">Sweet Girl</title>
     <desc lang="es"></desc>
     <date></date>
     <icon src=""/>
   </programme>
-  <programme start="20220130041000 -0300" stop="20220130055500 -0300" channel="Lim TV">
-    <title lang="es">Angeles de Charlie: Al Límite</title>
+  <programme start="20220131200000 -0300" stop="20220131214500 -0300" channel="Lim TV">
+    <title lang="es">Terminator</title>
     <desc lang="es"></desc>
     <date>1994</date>
     <icon src=""/>
   </programme>
-<programme start="20220130055500 -0300" stop="20220130075000 -0300" channel="Lim TV">
-    <title lang="es">Angeles de Charlie 2019</title>
+<programme start="20220131214500 -0300" stop="20220201002000 -0300" channel="Lim TV">
+    <title lang="es">Terminator 2</title>
     <icon src=""/>
   </programme> 
-<programme start="20220130075000 -0300" stop="20220130093500 -0300" channel="Lim TV">
+<programme start="20220201002000 -0300" stop="20220130093500 -0300" channel="Lim TV">
     <title lang="es">Pistolero</title>
     <icon src=""/>
   </programme>
