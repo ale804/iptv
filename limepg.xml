@@ -21,56 +21,57 @@
     <date>1994</date>
     <icon src=""/>
   </programme>
-<programme start="20220131211500 -0300" stop="20220201235000 -0300" channel="Lim TV">
+<programme start="20220131211500 -0300" stop="20220131235000 -0300" channel="Lim TV">
     <title lang="es">Terminator 2</title>
     <icon src=""/>
   </programme> 
-<programme start="20220201002000 -0300" stop="20220130093500 -0300" channel="Lim TV">
-    <title lang="es">Pistolero</title>
+<programme start="20220131235000 -0300" stop="20220201012000 -0300" channel="Lim TV">
+    <title lang="es">Una Pareja Explosiva</title>
     <icon src=""/>
   </programme>
-<programme start="20220130093500 -0300" stop="20220130112000 -0300" channel="Lim TV">
-    <title lang="es">Rápido y Furioso</title>
+<programme start="20220201012000 -0300" stop="20220201025000 -0300" channel="Lim TV">
+    <title lang="es">Una Pareja Explosiva 2</title>
     <icon src=""/>
   </programme>
-<programme start="20220130112000 -0300" stop="20220130130500 -0300" channel="Lim TV">
-    <title lang="es">Más Rápidos Más Furiosos</title>
+<programme start="20220201025000 -0300" stop="20220201042000 -0300" channel="Lim TV">
+    <title lang="es">Una Pareja Explosiva 3</title>
     <icon src=""/>
   </programme>
-<programme start="20220130130500 -0300" stop="20220130150000 -0300" channel="Lim TV">
-    <title lang="es">Rápido y Furioso: Tokio Drift</title>
+  </programme>
+<programme start="20220201042000 -0300" stop="20220201060000 -0300" channel="Lim TV">
+    <title lang="es">Venganza Implacable</title>
     <icon src=""/>
   </programme>
-<programme start="20220130150000 -0300" stop="20220130164000 -0300" channel="Lim TV">
-    <title lang="es">Rápidos y Furiosos 4</title>
+<programme start="20220201060000 -0300" stop="20220201073000 -0300" channel="Lim TV">
+    <title lang="es">Bokura no Nanokakan Sensou</title>
     <icon src=""/>
   </programme>
-<programme start="20220130164000 -0300" stop="20220130185000 -0300" channel="Lim TV">
-    <title lang="es">Rápidos y Furiosos: 5in Control</title>
+<programme start="20220201073000 -0300" stop="20220201091000 -0300" channel="Lim TV">
+    <title lang="es">Dragón Ball Super: Broly</title>
     <icon src=""/>
   </programme>
-<programme start="20220130185000 -0300" stop="20220130210000 -0300" channel="Lim TV">
-    <title lang="es">Rápidos y Furiosos 6</title>
+<programme start="20220201091000 -0300" stop="20220201101000 -0300" channel="Lim TV">
+    <title lang="es">Dragón Ball Z: La Gran Batalla está por comenzar</title>
     <icon src=""/>
   </programme>
-<programme start="20220130210000 -0300" stop="20220130232000 -0300" channel="Lim TV">
-    <title lang="es">Rápidos y Furiosos 7</title>
+<programme start="20220201101000 -0300" stop="20220201112500 -0300" channel="Lim TV">
+    <title lang="es">Dragon Ball: El camino hacia el poder</title>
     <icon src=""/>
   </programme>
-<programme start="20220130232000 -0300" stop="20220131013500 -0300" channel="Lim TV">
-    <title lang="es">Rápidos y Furiosos 8</title>
+<programme start="20220201112500 -0300" stop="20220201125000 -0300" channel="Lim TV">
+    <title lang="es">Dragon Ball Z: la batalla de los dioses</title>
     <icon src=""/>
   </programme>
-<programme start="20220131013500 -0300" stop="20220131034500 -0300" channel="Lim TV">
-    <title lang="es">Rápidos y Furiosos: Hobbs Vs. Shaw</title>
+<programme start="20220201125000 -0300" stop="20220201142500 -0300" channel="Lim TV">
+    <title lang="es">Dragon Ball Z: la resurrección de Freezer</title>
     <icon src=""/>
   </programme>
-<programme start="20220131034500 -0300" stop="20220131055500 -0300" channel="Lim TV">
-    <title lang="es">Rápidos y Furiosos 9</title>
+<programme start="20220201142500 -0300" stop="20220201162000 -0300" channel="Lim TV">
+    <title lang="es">Demon Slayer: El Tren Infinito</title>
     <icon src=""/>
   </programme>
-<programme start="20220129221500 -0300" stop="20220130004000 -0300" channel="Lim TV">
-    <title lang="es">La Redada 2</title>
+<programme start="20220201162000 -0300" stop="20220201185000 -0300" channel="Lim TV">
+    <title lang="es"Evangelion: 3.0+1.01</title>
     <icon src=""/>
   </programme>
 
