@@ -30,15 +30,15 @@
     <icon src=""/>
   </programme>
 <programme start="20220614220000 -0400" stop="20220614223000 -0400" channel="Lim TV">
-    <title lang="es">Una Pareja Explosiva 2</title>
+    <title lang="es">EL MUNDO AL DIA</title>
     <icon src=""/>
   </programme>
-<programme start="20220614223000 -0400" stop="20220201042000 -0300" channel="Lim TV">
-    <title lang="es">Una Pareja Explosiva 3</title>
+<programme start="20220614223000 -0400" stop="20220614233000 -0400" channel="Lim TV">
+    <title lang="es">PRISION BREAK</title>
     <icon src=""/>
   </programme>
   </programme>
-<programme start="20220201042000 -0300" stop="20220201060000 -0300" channel="Lim TV">
+<programme start="20220614233000 -0400" stop="20220201060000 -0300" channel="Lim TV">
     <title lang="es">Venganza Implacable</title>
     <icon src=""/>
   </programme>
