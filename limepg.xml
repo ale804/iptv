@@ -43,35 +43,7 @@
     <icon src=""/>
   </programme>
 <programme start="20220615013000 -0400" stop="20220615050000 -0400" channel="Lim TV">
-    <title lang="es">Bokura no Nanokakan Sensou</title>
-    <icon src=""/>
-  </programme>
-<programme start="20220201073000 -0300" stop="20220201091000 -0300" channel="Lim TV">
-    <title lang="es">Dragón Ball Super: Broly</title>
-    <icon src=""/>
-  </programme>
-<programme start="20220201091000 -0300" stop="20220201101000 -0300" channel="Lim TV">
-    <title lang="es">Dragón Ball Z: La Gran Batalla está por comenzar</title>
-    <icon src=""/>
-  </programme>
-<programme start="20220201101000 -0300" stop="20220201112500 -0300" channel="Lim TV">
-    <title lang="es">Dragon Ball: El camino hacia el poder</title>
-    <icon src=""/>
-  </programme>
-<programme start="20220201112500 -0300" stop="20220201125000 -0300" channel="Lim TV">
-    <title lang="es">Dragon Ball Z: la batalla de los dioses</title>
-    <icon src=""/>
-  </programme>
-<programme start="20220201125000 -0300" stop="20220201142500 -0300" channel="Lim TV">
-    <title lang="es">Dragon Ball Z: la resurrección de Freezer</title>
-    <icon src=""/>
-  </programme>
-<programme start="20220201142500 -0300" stop="20220201162000 -0300" channel="Lim TV">
-    <title lang="es">Demon Slayer: El Tren Infinito</title>
-    <icon src=""/>
-  </programme>
-<programme start="20220201162000 -0300" stop="20220201185000 -0300" channel="Lim TV">
-    <title lang="es"Evangelion: 3.0+1.01</title>
+    <title lang="es">LIM CLIPS</title>
     <icon src=""/>
   </programme>
 
