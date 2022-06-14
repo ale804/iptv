@@ -5,35 +5,35 @@
     <icon src=""/>
     <url>http://lainvasiva.com/</url>
   </channel>
-  <programme start="20220131163000 -0300" stop="20220131181000 -0300" channel="Lim TV">
-    <title lang="es">Shangai Kid</title>
+  <programme start="20220614170000 -0400" stop="20220614180000 -0400" channel="Lim TV">
+    <title lang="es">DocuLIM</title>
     <icon src=""/>
   </programme>
-  <programme start="20220131181000 -0300" stop="20220131193000 -0300" channel="Lim TV">
-    <title lang="es">Sweet Girl</title>
+  <programme start="20220614180000 -0400" stop="20220614190000 -0400" channel="Lim TV">
+    <title lang="es">SMALLVILLE</title>
     <desc lang="es"></desc>
     <date></date>
     <icon src=""/>
   </programme>
-  <programme start="20220131193000 -0300" stop="20220131211500 -0300" channel="Lim TV">
-    <title lang="es">Terminator</title>
+  <programme start="20220614190000 -0400" stop="20220614200000 -0400" channel="Lim TV">
+    <title lang="es">ARROW</title>
     <desc lang="es"></desc>
     <date>1994</date>
     <icon src=""/>
   </programme>
-<programme start="20220131211500 -0300" stop="20220131235000 -0300" channel="Lim TV">
-    <title lang="es">Terminator 2</title>
+<programme start="20220614200000 -0400" stop="20220614210000 -0400" channel="Lim TV">
+    <title lang="es">Los Magnificos</title>
     <icon src=""/>
   </programme> 
-<programme start="20220131235000 -0300" stop="20220201012000 -0300" channel="Lim TV">
-    <title lang="es">Una Pareja Explosiva</title>
+<programme start="20220614210000 -0400" stop="20220614220000 -0400" channel="Lim TV">
+    <title lang="es">MENTES CRIMINALES</title>
     <icon src=""/>
   </programme>
-<programme start="20220201012000 -0300" stop="20220201025000 -0300" channel="Lim TV">
+<programme start="20220614220000 -0400" stop="20220614223000 -0400" channel="Lim TV">
     <title lang="es">Una Pareja Explosiva 2</title>
     <icon src=""/>
   </programme>
-<programme start="20220201025000 -0300" stop="20220201042000 -0300" channel="Lim TV">
+<programme start="20220614223000 -0400" stop="20220201042000 -0300" channel="Lim TV">
     <title lang="es">Una Pareja Explosiva 3</title>
     <icon src=""/>
   </programme>
