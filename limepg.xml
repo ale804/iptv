@@ -89,38 +89,36 @@
     <title lang="es">LIM CLIPS</title>
     <icon src=""/>
 </programme>
- <programme start="20220615170000 -0400" stop="20220614180000 -0400" channel="Lim TV">
+ <programme start="20220615170000 -0400" stop="20220615180000 -0400" channel="Lim TV">
     <title lang="es">DocuLIM</title>
     <icon src=""/>
 </programme>
-  <programme start="20220615180000 -0400" stop="20220614190000 -0400" channel="Lim TV">
+  <programme start="20220615180000 -0400" stop="20220615190000 -0400" channel="Lim TV">
     <title lang="es">SMALLVILLE</title>
     <desc lang="es"></desc>
     <date></date>
     <icon src=""/>
 </programme>
-  <programme start="20220615190000 -0400" stop="20220614200000 -0400" channel="Lim TV">
+  <programme start="20220615190000 -0400" stop="20220615200000 -0400" channel="Lim TV">
     <title lang="es">ARROW</title>
     <desc lang="es"></desc>
     <date>1994</date>
     <icon src=""/>
   </programme>
-<programme start="20220615200000 -0400" stop="20220614210000 -0400" channel="Lim TV">
+<programme start="20220615200000 -0400" stop="20220615210000 -0400" channel="Lim TV">
     <title lang="es">Los Magnificos</title>
     <icon src=""/>
   </programme> 
-<programme start="20220615210000 -0400" stop="20220614220000 -0400" channel="Lim TV">
+<programme start="20220615210000 -0400" stop="20220615220000 -0400" channel="Lim TV">
     <title lang="es">MENTES CRIMINALES</title>
     <icon src=""/>
   </programme>
-<programme start="20220615220000 -0400" stop="20220614223000 -0400" channel="Lim TV">
+<programme start="20220615220000 -0400" stop="20220615223000 -0400" channel="Lim TV">
     <title lang="es">EL MUNDO AL DIA</title>
     <icon src=""/>
   </programme>
-<programme start="20220615223000 -0400" stop="20220614233000 -0400" channel="Lim TV">
+<programme start="20220615223000 -0400" stop="20220615233000 -0400" channel="Lim TV">
     <title lang="es">PRISION BREAK</title>
     <icon src=""/>
   </programme>
-
-
 </tv>
