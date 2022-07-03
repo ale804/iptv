@@ -12,20 +12,20 @@
 }
 
 #play{
-    background-image: url("/play.svg");
+    background-image: url("https://ale804.github.io/iptv/play.svg");
 }
 
 #pause{
-    background-image: url("../images/pause.svg");
+    background-image: url("https://ale804.github.io/iptv/pause.svg");
 }
 
 #backward{
-    background-image: url("../images/-10.svg");
+    background-image: url("https://ale804.github.io/iptv/-10.svg");
 }
 
 #forward{
-    background-image: url("../images/+10.svg");
+    background-image: url("https://ale804.github.io/iptv/+10.svg");
 }
 #menu{
-    background-image: url("../images/menu-bar.svg");
+    background-image: url("https://ale804.github.io/iptv/menu-bar.svg");
 }
