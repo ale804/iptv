@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-@import '/buttons.css';
+@import 'https://ale804.github.io/iptv/buttons.css';
 
 *, *::after, *::before{
 	margin:0;
