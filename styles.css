@@ -1,0 +1,86 @@
+@charset "UTF-8";
+
+@import './buttons.css';
+
+*, *::after, *::before{
+	margin:0;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.video-wrapper{
+    max-inline-size: 100%;
+    margin: auto;
+}
+
+.player{
+    position: absolute;
+    min-width:100%;
+    min-height:100%;
+    
+}
+
+.player:hover .player-overlay{
+    opacity: 1;
+}
+
+.player video{
+    inline-size: 100%;
+    aspect-ratio:16/9;
+    vertical-align: middle;
+    object-fit: cover;
+}
+
+.player-overlay{
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    transition: 0.3s opacity;
+}
+
+.player-title{
+    color: white;
+    position: absolute;
+    inset-block-start: 10px;
+    inset-inline-start: 20px;
+    margin: 0;
+}
+
+.player-watemark{
+    position: absolute;
+    inset-block-end: 40px;
+    inset-inline-start: 15px;
+    opacity: 0.95;
+    font-family:'Century Gothic';
+    font-weight: 700;
+    font-size: 20px;
+    text-shadow: 10px 1px 30px black;
+    color: white;
+    filter: drop-shadow(10px 1px 30px  black);
+}
+
+
+.player-actions{
+    position: absolute;
+    inset: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.player-progress{
+    position: absolute;
+    inset-block-end: 0;
+    inset-inline: 0;
+    display: flex;
+    padding: 10px;
+}
+
+.player-progress input{
+    flex: 1;
+}
