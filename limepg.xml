@@ -81,11 +81,11 @@
     <title lang="es">DocuLIM</title>
     <icon src=""/>
   </programme>
-<programme start="20221108123000 -0400" stop="20220616153000 -0400" channel="Lim TV">
+<programme start="20221108123000 -0400" stop="20221108153000 -0400" channel="Lim TV">
     <title lang="es">CINE LIM</title>
     <icon src=""/>
   </programme>
-<programme start="20221108153000 -0400" stop="20220616170000 -0400" channel="Lim TV">
+<programme start="20221108153000 -0400" stop="20221108170000 -0400" channel="Lim TV">
     <title lang="es">LIM CLIPS</title>
     <icon src=""/>
 </programme>
