@@ -5,17 +5,17 @@
     <icon src=""/>
     <url>http://lainvasiva.com/</url>
   </channel>
-  <programme start="20230220203000 -0300" stop="20230220223000 -0300" channel="Lim TV">
+  <programme start="20230220203000 0000" stop="20230220223000 0000" channel="Lim TV">
     <title lang="es">Rocky</title>
     <icon src=""/>
   </programme>
-  <programme start="20230220223000 -0300" stop="20230221003000 -0300" channel="Lim TV">
+  <programme start="20230220223000 0000" stop="20230221003000 0000" channel="Lim TV">
     <title lang="es">ROCKY II</title>
     <desc lang="es"></desc>
     <date></date>
     <icon src=""/>
   </programme>
-  <programme start="20230221003000 -0300" stop="20230221090000 -0300" channel="Lim TV">
+  <programme start="20230221003000 0000" stop="20230221090000 0000" channel="Lim TV">
     <title lang="es">CIERRE</title>
     <desc lang="es"></desc>
     <date>1994</date>
