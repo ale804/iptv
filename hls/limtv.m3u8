@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2500000,CODECS="mp4a.40.2,avc1.640020"
+https://tgn.bozztv.com/ssh101/ssh101/invasivamedia/chunks.m3u8

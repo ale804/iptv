@@ -1,4 +1,0 @@
-#EXTM3U 
-#EXT-X-VERSION:3 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=900000 
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(DISCOVERY_CHANNEL_HD)/index.m3u8
